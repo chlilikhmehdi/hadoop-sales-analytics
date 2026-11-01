@@ -304,7 +304,6 @@ results/revenue_by_seller.txt
 
 Étudiant ingénieur en Génie Informatique – Data Science et Intelligence Artificielle.
 
-GitHub : https://github.com/VOTRE_USERNAME
 
 ---
 
