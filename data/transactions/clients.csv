@@ -1,0 +1,1001 @@
+client_id,nom,prenom,ville,pays,date_inscription,segment_client
+C0001,El Idrissi,Aicha,Casablanca,Maroc,2022-05-22,PREMIUM
+C0002,Sebti,Soukaina,Rabat,Maroc,2023-06-28,PREMIUM
+C0003,Haddad,Fatima,Marrakech,Maroc,2024-11-02,PREMIUM
+C0004,Belhaj,Soukaina,Oujda,Maroc,2023-10-05,STANDARD
+C0005,Lamrani,Reda,Oujda,Maroc,2023-12-19,STANDARD
+C0006,Saidi,Imane,Tanger,Maroc,2022-11-13,STANDARD
+C0007,Haddad,Rachid,Casablanca,Maroc,2023-07-03,STANDARD
+C0008,Rifi,Othmane,Agadir,Maroc,2023-06-24,STANDARD
+C0009,Bakkali,Reda,Casablanca,Maroc,2022-10-21,PREMIUM
+C0010,Guessous,Tarik,Marrakech,Maroc,2024-07-27,PREMIUM
+C0011,Bakkali,Yasmine,Casablanca,Maroc,2025-10-12,STANDARD
+C0012,Slaoui,Soukaina,Marrakech,Maroc,2024-11-24,STANDARD
+C0013,Berrada,Khadija,Casablanca,Maroc,2024-03-29,PREMIUM
+C0014,Hajji,Yasmine,Agadir,Maroc,2022-09-25,STANDARD
+C0015,Tahiri,Meryem,Casablanca,Maroc,2024-09-16,STANDARD
+C0016,Lahlou,Reda,Rabat,Maroc,2025-09-15,VIP
+C0017,Saidi,Youssef,Agadir,Maroc,2024-07-25,STANDARD
+C0018,El Idrissi,Salma,Tanger,Maroc,2025-02-12,PREMIUM
+C0019,Tazi,Mohamed,Rabat,Maroc,2022-11-16,STANDARD
+C0020,Saidi,Zineb,Meknès,Maroc,2025-05-26,PREMIUM
+C0021,Guessous,Mehdi,Agadir,Maroc,2024-05-04,PREMIUM
+C0022,Fassi,Yasmine,El Jadida,Maroc,2022-08-10,STANDARD
+C0023,Bouzid,Ahmed,Béni Mellal,Maroc,2025-01-31,PREMIUM
+C0024,Bakkali,Hajar,Tanger,Maroc,2023-12-05,STANDARD
+C0025,Oukili,Bilal,Casablanca,Maroc,2023-11-01,VIP
+C0026,Fassi,Soukaina,Marrakech,Maroc,2022-02-14,STANDARD
+C0027,El Amrani,Zineb,Kénitra,Maroc,2024-01-23,STANDARD
+C0028,Sebti,Sara,Oujda,Maroc,2023-03-24,PREMIUM
+C0029,Daoudi,Hamza,Kénitra,Maroc,2025-10-28,STANDARD
+C0030,Soussi,Hajar,Béni Mellal,Maroc,2022-07-05,VIP
+C0031,Naciri,Rania,Marrakech,Maroc,2024-09-28,STANDARD
+C0032,Chraibi,Khalid,Casablanca,Maroc,2025-02-25,VIP
+C0033,El Fassi,Bilal,Agadir,Maroc,2024-12-02,VIP
+C0034,Saidi,Rania,Rabat,Maroc,2022-03-01,STANDARD
+C0035,El Fassi,Loubna,Oujda,Maroc,2022-09-17,STANDARD
+C0036,Oukili,Othmane,Kénitra,Maroc,2022-10-07,PREMIUM
+C0037,Cherkaoui,Fatima,Tanger,Maroc,2025-08-25,STANDARD
+C0038,El Amrani,Kenza,Meknès,Maroc,2022-11-08,PREMIUM
+C0039,Amrani,Said,Oujda,Maroc,2022-09-26,PREMIUM
+C0040,Berrada,Samira,Rabat,Maroc,2025-09-27,VIP
+C0041,Bouzid,Walid,Tanger,Maroc,2022-10-13,STANDARD
+C0042,Fassi,Aicha,Agadir,Maroc,2024-07-25,STANDARD
+C0043,Amrani,Khalid,Fès,Maroc,2024-04-27,PREMIUM
+C0044,Benani,Kenza,Marrakech,Maroc,2023-09-08,STANDARD
+C0045,El Idrissi,Kenza,Marrakech,Maroc,2024-08-11,PREMIUM
+C0046,Amrani,Fatima,Casablanca,Maroc,2024-11-06,STANDARD
+C0047,Lamrani,Anas,Agadir,Maroc,2025-04-15,VIP
+C0048,Bakkali,Bilal,Rabat,Maroc,2022-02-27,STANDARD
+C0049,Haddad,Mehdi,Kénitra,Maroc,2025-09-20,STANDARD
+C0050,Zniber,Amine,Fès,Maroc,2023-04-06,PREMIUM
+C0051,Benjelloun,Salma,Meknès,Maroc,2025-10-17,NOUVEAU
+C0052,Cherkaoui,Zineb,Rabat,Maroc,2025-12-14,STANDARD
+C0053,Mernissi,Houda,Tétouan,Maroc,2025-05-27,STANDARD
+C0054,El Amrani,Ayoub,Marrakech,Maroc,2022-08-26,PREMIUM
+C0055,Benjelloun,Asmae,Agadir,Maroc,2022-08-24,STANDARD
+C0056,Haddad,Hicham,Casablanca,Maroc,2022-03-04,STANDARD
+C0057,Kettani,Othmane,Fès,Maroc,2024-01-18,STANDARD
+C0058,Ouazzani,Zineb,Casablanca,Maroc,2023-12-27,STANDARD
+C0059,Mernissi,Said,Marrakech,Maroc,2025-10-25,NOUVEAU
+C0060,Berrada,Latifa,Marrakech,Maroc,2025-11-30,PREMIUM
+C0061,El Idrissi,Bilal,Tanger,Maroc,2024-08-02,STANDARD
+C0062,El Fassi,Ghita,Rabat,Maroc,2022-07-21,VIP
+C0063,Bouchta,Mehdi,El Jadida,Maroc,2022-03-27,STANDARD
+C0064,Tazi,Samira,Oujda,Maroc,2024-03-02,PREMIUM
+C0065,Soussi,Zineb,Casablanca,Maroc,2024-09-07,STANDARD
+C0066,Fassi,Fatima,Casablanca,Maroc,2022-02-24,STANDARD
+C0067,Hajji,Kenza,Meknès,Maroc,2025-07-19,NOUVEAU
+C0068,Lahlou,Ghita,Rabat,Maroc,2023-11-17,PREMIUM
+C0069,Zniber,Hajar,Fès,Maroc,2023-10-22,PREMIUM
+C0070,Belhaj,Zakaria,Kénitra,Maroc,2023-05-04,STANDARD
+C0071,Bennis,Meryem,Rabat,Maroc,2024-09-28,STANDARD
+C0072,Lahlou,Hicham,Marrakech,Maroc,2025-04-19,STANDARD
+C0073,Benani,Ghita,Meknès,Maroc,2025-10-07,NOUVEAU
+C0074,Skalli,Ghita,Kénitra,Maroc,2022-10-15,STANDARD
+C0075,Ouazzani,Fatima,Tanger,Maroc,2024-06-03,VIP
+C0076,Raji,Aicha,Tanger,Maroc,2024-11-30,STANDARD
+C0077,Cherkaoui,Samira,Tanger,Maroc,2023-03-21,PREMIUM
+C0078,Belhaj,Zineb,Oujda,Maroc,2022-08-16,VIP
+C0079,Belhaj,Meryem,Casablanca,Maroc,2022-01-12,STANDARD
+C0080,El Fassi,Amine,Rabat,Maroc,2025-07-22,NOUVEAU
+C0081,Saidi,Ahmed,Oujda,Maroc,2025-12-18,VIP
+C0082,Lahlou,Yasmine,Casablanca,Maroc,2024-07-05,STANDARD
+C0083,Daoudi,Zineb,Agadir,Maroc,2025-08-18,NOUVEAU
+C0084,Berrada,Hajar,Agadir,Maroc,2023-08-20,STANDARD
+C0085,Saidi,Othmane,Agadir,Maroc,2022-01-15,STANDARD
+C0086,Hajji,Hajar,Casablanca,Maroc,2025-11-17,NOUVEAU
+C0087,Bouchta,Ghita,Kénitra,Maroc,2025-01-11,STANDARD
+C0088,Lamrani,Kenza,Fès,Maroc,2023-04-13,STANDARD
+C0089,Bennis,Zakaria,Tanger,Maroc,2022-01-31,STANDARD
+C0090,Soussi,Houda,Casablanca,Maroc,2023-01-01,STANDARD
+C0091,Daoudi,Hicham,Béni Mellal,Maroc,2023-11-22,STANDARD
+C0092,Skalli,Amine,Casablanca,Maroc,2022-07-09,STANDARD
+C0093,Guessous,Rachid,Kénitra,Maroc,2024-11-24,PREMIUM
+C0094,Amrani,Hajar,Casablanca,Maroc,2025-11-07,PREMIUM
+C0095,Alaoui,Rachid,Agadir,Maroc,2024-02-17,STANDARD
+C0096,Guessous,Meryem,Marrakech,Maroc,2023-11-25,STANDARD
+C0097,Benani,Latifa,Casablanca,Maroc,2025-08-24,STANDARD
+C0098,Sebti,Zakaria,Agadir,Maroc,2025-05-02,PREMIUM
+C0099,Bouzid,Samira,Casablanca,Maroc,2023-09-21,PREMIUM
+C0100,Bakkali,Youssef,Tanger,Maroc,2022-12-26,PREMIUM
+C0101,Tahiri,Zakaria,Fès,Maroc,2022-11-22,PREMIUM
+C0102,Lahlou,Hajar,Tanger,Maroc,2022-05-19,STANDARD
+C0103,Amrani,Walid,Fès,Maroc,2025-07-06,NOUVEAU
+C0104,Amrani,Tarik,Casablanca,Maroc,2024-02-20,PREMIUM
+C0105,Lahlou,Latifa,Marrakech,Maroc,2022-07-17,STANDARD
+C0106,Filali,Hamza,Fès,Maroc,2023-07-15,STANDARD
+C0107,Hajji,Walid,Marrakech,Maroc,2024-07-02,PREMIUM
+C0108,Naciri,Tarik,Tanger,Maroc,2022-12-11,STANDARD
+C0109,Saidi,Ayoub,Béni Mellal,Maroc,2025-12-02,STANDARD
+C0110,Mansouri,Sara,Casablanca,Maroc,2025-11-18,PREMIUM
+C0111,Mansouri,Anas,Marrakech,Maroc,2024-02-28,STANDARD
+C0112,Belhaj,Kenza,Rabat,Maroc,2023-03-02,PREMIUM
+C0113,Slaoui,Kenza,Marrakech,Maroc,2024-02-14,PREMIUM
+C0114,Zniber,Houda,Casablanca,Maroc,2022-12-26,STANDARD
+C0115,El Amrani,Asmae,Fès,Maroc,2023-09-08,STANDARD
+C0116,Fassi,Latifa,Fès,Maroc,2025-12-10,NOUVEAU
+C0117,Soussi,Omar,Oujda,Maroc,2023-09-21,PREMIUM
+C0118,Bakkali,Loubna,Marrakech,Maroc,2025-02-24,STANDARD
+C0119,Daoudi,Kenza,Kénitra,Maroc,2023-08-08,VIP
+C0120,Daoudi,Asmae,Marrakech,Maroc,2023-12-19,VIP
+C0121,El Fassi,Imane,Fès,Maroc,2023-03-28,STANDARD
+C0122,Soussi,Imane,Oujda,Maroc,2024-01-16,VIP
+C0123,Bouchta,Yasmine,Meknès,Maroc,2024-02-13,STANDARD
+C0124,Tazi,Youssef,Fès,Maroc,2023-04-29,STANDARD
+C0125,Tahiri,Sara,Rabat,Maroc,2022-11-19,STANDARD
+C0126,Slaoui,Youssef,Rabat,Maroc,2025-07-30,NOUVEAU
+C0127,Skalli,Karim,Fès,Maroc,2025-05-16,STANDARD
+C0128,Ziani,Anas,Tétouan,Maroc,2023-04-27,STANDARD
+C0129,Chraibi,Anas,Fès,Maroc,2023-12-01,PREMIUM
+C0130,Tazi,Meryem,Oujda,Maroc,2025-08-11,STANDARD
+C0131,Oukili,Yasmine,Casablanca,Maroc,2023-11-30,PREMIUM
+C0132,Zniber,Aicha,Béni Mellal,Maroc,2022-11-02,STANDARD
+C0133,Mernissi,Anas,Casablanca,Maroc,2024-05-17,PREMIUM
+C0134,Skalli,Youssef,Casablanca,Maroc,2024-05-16,VIP
+C0135,Berrada,Soukaina,Meknès,Maroc,2024-07-08,STANDARD
+C0136,Ziani,Omar,Casablanca,Maroc,2023-01-07,STANDARD
+C0137,El Fassi,Kenza,Marrakech,Maroc,2023-05-24,STANDARD
+C0138,Alaoui,Amine,Oujda,Maroc,2022-10-18,PREMIUM
+C0139,Haddad,Bilal,Marrakech,Maroc,2022-07-29,PREMIUM
+C0140,Ziani,Hamza,Oujda,Maroc,2025-07-21,STANDARD
+C0141,Naciri,Bilal,Kénitra,Maroc,2024-05-24,VIP
+C0142,Mansouri,Walid,Fès,Maroc,2025-05-23,STANDARD
+C0143,Bennis,Bilal,Fès,Maroc,2025-02-11,PREMIUM
+C0144,Ziani,Tarik,El Jadida,Maroc,2023-06-18,STANDARD
+C0145,Rifi,Latifa,Fès,Maroc,2022-11-30,STANDARD
+C0146,Sebti,Bilal,Rabat,Maroc,2022-08-14,VIP
+C0147,Raji,Hicham,Marrakech,Maroc,2025-05-03,STANDARD
+C0148,Bakkali,Karim,Tanger,Maroc,2024-04-11,PREMIUM
+C0149,Filali,Rania,Marrakech,Maroc,2025-10-15,STANDARD
+C0150,Rifi,Nadia,Marrakech,Maroc,2025-04-11,STANDARD
+C0151,Lamrani,Mohamed,Oujda,Maroc,2024-03-02,PREMIUM
+C0152,Alaoui,Hajar,Casablanca,Maroc,2024-01-08,STANDARD
+C0153,Kettani,Youssef,Casablanca,Maroc,2025-07-14,NOUVEAU
+C0154,Haddad,Khadija,El Jadida,Maroc,2023-06-20,STANDARD
+C0155,Alaoui,Bilal,Casablanca,Maroc,2023-02-27,STANDARD
+C0156,Berrada,Khalid,Kénitra,Maroc,2025-12-22,STANDARD
+C0157,Slaoui,Asmae,Tanger,Maroc,2024-07-23,STANDARD
+C0158,Soussi,Ghita,Casablanca,Maroc,2022-04-22,STANDARD
+C0159,Mansouri,Meryem,Casablanca,Maroc,2022-08-27,PREMIUM
+C0160,Filali,Latifa,Béni Mellal,Maroc,2022-03-17,STANDARD
+C0161,Benani,Yasmine,Marrakech,Maroc,2023-08-11,STANDARD
+C0162,El Amrani,Houda,Casablanca,Maroc,2022-04-15,STANDARD
+C0163,Benjelloun,Kenza,Casablanca,Maroc,2025-05-27,STANDARD
+C0164,Guessous,Zineb,Fès,Maroc,2024-04-24,VIP
+C0165,Alaoui,Said,Casablanca,Maroc,2023-08-12,PREMIUM
+C0166,Ouazzani,Hicham,Casablanca,Maroc,2024-08-04,STANDARD
+C0167,Benjelloun,Fatima,Tétouan,Maroc,2025-11-13,STANDARD
+C0168,Skalli,Hicham,Marrakech,Maroc,2024-03-01,STANDARD
+C0169,Alaoui,Hamza,Casablanca,Maroc,2024-01-22,PREMIUM
+C0170,Mansouri,Yasmine,Casablanca,Maroc,2023-02-03,STANDARD
+C0171,Mernissi,Kenza,Casablanca,Maroc,2022-08-16,VIP
+C0172,Skalli,Reda,Oujda,Maroc,2025-02-17,STANDARD
+C0173,Benjelloun,Rachid,Rabat,Maroc,2022-11-03,STANDARD
+C0174,Filali,Karim,Fès,Maroc,2023-05-30,PREMIUM
+C0175,El Amrani,Hicham,Casablanca,Maroc,2025-10-30,NOUVEAU
+C0176,Fassi,Rania,Casablanca,Maroc,2025-11-14,NOUVEAU
+C0177,Lamrani,Yasmine,Fès,Maroc,2023-04-09,PREMIUM
+C0178,Sebti,Ahmed,Marrakech,Maroc,2022-11-07,STANDARD
+C0179,Saidi,Anas,Béni Mellal,Maroc,2023-09-21,STANDARD
+C0180,Chraibi,Meryem,Rabat,Maroc,2024-09-07,STANDARD
+C0181,Chraibi,Omar,Casablanca,Maroc,2023-08-20,PREMIUM
+C0182,Alaoui,Kenza,Casablanca,Maroc,2025-08-21,NOUVEAU
+C0183,Tazi,Fatima,Fès,Maroc,2023-06-03,STANDARD
+C0184,Bakkali,Meryem,Rabat,Maroc,2025-01-12,PREMIUM
+C0185,Guessous,Aicha,Agadir,Maroc,2025-11-03,NOUVEAU
+C0186,Bakkali,Omar,El Jadida,Maroc,2024-01-14,STANDARD
+C0187,El Fassi,Yasmine,Tanger,Maroc,2023-12-07,PREMIUM
+C0188,Benani,Mehdi,Agadir,Maroc,2024-06-06,STANDARD
+C0189,Bennis,Rania,Agadir,Maroc,2024-08-25,STANDARD
+C0190,Lahlou,Sara,Béni Mellal,Maroc,2025-08-14,VIP
+C0191,Lahlou,Bilal,Agadir,Maroc,2023-05-13,STANDARD
+C0192,Alaoui,Zineb,Béni Mellal,Maroc,2022-09-06,STANDARD
+C0193,Lamrani,Hajar,Oujda,Maroc,2022-12-20,STANDARD
+C0194,El Amrani,Rachid,Casablanca,Maroc,2025-12-07,PREMIUM
+C0195,Kettani,Nadia,Tanger,Maroc,2024-05-15,VIP
+C0196,El Idrissi,Hicham,Marrakech,Maroc,2024-03-23,STANDARD
+C0197,Raji,Ayoub,Tanger,Maroc,2025-01-18,PREMIUM
+C0198,Hajji,Soukaina,Meknès,Maroc,2025-08-31,NOUVEAU
+C0199,Mernissi,Khadija,Meknès,Maroc,2022-07-02,VIP
+C0200,El Idrissi,Khalid,Meknès,Maroc,2024-07-31,STANDARD
+C0201,Sebti,Reda,Kénitra,Maroc,2025-06-28,STANDARD
+C0202,Ouazzani,Ahmed,Agadir,Maroc,2023-08-18,PREMIUM
+C0203,Skalli,Othmane,Casablanca,Maroc,2023-11-20,PREMIUM
+C0204,Haddad,Loubna,Casablanca,Maroc,2023-10-06,STANDARD
+C0205,Lahlou,Othmane,Kénitra,Maroc,2025-12-16,STANDARD
+C0206,Naciri,Zakaria,Rabat,Maroc,2025-08-27,NOUVEAU
+C0207,Alaoui,Othmane,Casablanca,Maroc,2025-10-23,STANDARD
+C0208,Tahiri,Othmane,Fès,Maroc,2023-07-25,STANDARD
+C0209,Mernissi,Hamza,Rabat,Maroc,2022-09-21,STANDARD
+C0210,Bouzid,Mohamed,Marrakech,Maroc,2025-12-06,NOUVEAU
+C0211,Alaoui,Yasmine,Casablanca,Maroc,2025-02-19,STANDARD
+C0212,Bennis,Youssef,Casablanca,Maroc,2025-07-06,STANDARD
+C0213,Oukili,Youssef,Tanger,Maroc,2022-04-16,PREMIUM
+C0214,Rifi,Anas,Oujda,Maroc,2022-04-15,STANDARD
+C0215,Oukili,Said,Marrakech,Maroc,2025-07-10,NOUVEAU
+C0216,El Amrani,Ahmed,Béni Mellal,Maroc,2022-03-16,STANDARD
+C0217,Rifi,Hajar,Oujda,Maroc,2025-11-22,STANDARD
+C0218,Tazi,Hamza,Marrakech,Maroc,2023-09-18,STANDARD
+C0219,Alaoui,Mehdi,Fès,Maroc,2023-01-16,STANDARD
+C0220,Berrada,Ahmed,Rabat,Maroc,2023-09-18,STANDARD
+C0221,Sebti,Mohamed,Meknès,Maroc,2022-12-08,STANDARD
+C0222,Tazi,Soukaina,Oujda,Maroc,2025-08-15,NOUVEAU
+C0223,Fassi,Mehdi,Fès,Maroc,2024-05-07,STANDARD
+C0224,Amrani,Mehdi,Fès,Maroc,2025-05-18,VIP
+C0225,Raji,Soukaina,Tanger,Maroc,2022-12-21,PREMIUM
+C0226,Chraibi,Loubna,Casablanca,Maroc,2023-01-25,STANDARD
+C0227,Oukili,Rachid,Fès,Maroc,2025-11-02,VIP
+C0228,Cherkaoui,Karim,Casablanca,Maroc,2025-02-16,VIP
+C0229,Raji,Latifa,Rabat,Maroc,2025-05-11,STANDARD
+C0230,Benani,Soukaina,Kénitra,Maroc,2025-09-24,STANDARD
+C0231,Hajji,Fatima,Marrakech,Maroc,2025-07-15,NOUVEAU
+C0232,Belhaj,Anas,Kénitra,Maroc,2024-10-17,STANDARD
+C0233,Naciri,Said,Rabat,Maroc,2025-04-06,STANDARD
+C0234,Benjelloun,Zineb,Oujda,Maroc,2024-02-10,STANDARD
+C0235,El Fassi,Said,Béni Mellal,Maroc,2022-12-15,PREMIUM
+C0236,Bouzid,Asmae,Tétouan,Maroc,2022-01-31,STANDARD
+C0237,Sebti,Rachid,Casablanca,Maroc,2022-11-13,PREMIUM
+C0238,Fassi,Tarik,Rabat,Maroc,2024-04-06,STANDARD
+C0239,Benani,Zineb,Agadir,Maroc,2025-10-30,PREMIUM
+C0240,Bennis,Salma,Béni Mellal,Maroc,2024-02-22,STANDARD
+C0241,Slaoui,Karim,Tanger,Maroc,2024-12-02,PREMIUM
+C0242,Naciri,Karim,Tanger,Maroc,2022-09-04,STANDARD
+C0243,Amrani,Reda,Marrakech,Maroc,2023-12-04,VIP
+C0244,Haddad,Salma,Fès,Maroc,2025-10-29,NOUVEAU
+C0245,Skalli,Rachid,Agadir,Maroc,2024-03-21,PREMIUM
+C0246,Tazi,Rachid,Marrakech,Maroc,2025-11-10,VIP
+C0247,Bouzid,Anas,Béni Mellal,Maroc,2022-07-12,STANDARD
+C0248,Berrada,Sara,Casablanca,Maroc,2024-07-22,STANDARD
+C0249,Slaoui,Ayoub,Tanger,Maroc,2025-12-24,NOUVEAU
+C0250,Bakkali,Rania,Casablanca,Maroc,2023-02-24,STANDARD
+C0251,Belhaj,Tarik,Casablanca,Maroc,2023-10-15,VIP
+C0252,Cherkaoui,Hicham,Meknès,Maroc,2022-09-02,STANDARD
+C0253,Haddad,Omar,Meknès,Maroc,2023-02-01,VIP
+C0254,Tahiri,Hamza,Casablanca,Maroc,2025-08-01,NOUVEAU
+C0255,Mansouri,Othmane,Casablanca,Maroc,2023-04-28,PREMIUM
+C0256,Mernissi,Rania,Tanger,Maroc,2025-09-04,STANDARD
+C0257,Naciri,Anas,Marrakech,Maroc,2023-06-04,STANDARD
+C0258,Amrani,Youssef,Casablanca,Maroc,2022-12-29,STANDARD
+C0259,Benjelloun,Aicha,Meknès,Maroc,2022-01-04,STANDARD
+C0260,Ouazzani,Mehdi,Agadir,Maroc,2025-12-01,NOUVEAU
+C0261,Daoudi,Karim,Tanger,Maroc,2023-03-09,STANDARD
+C0262,Fassi,Ghita,Meknès,Maroc,2025-10-12,NOUVEAU
+C0263,Mansouri,Hamza,Meknès,Maroc,2024-02-07,PREMIUM
+C0264,Bouzid,Rachid,Oujda,Maroc,2025-12-27,NOUVEAU
+C0265,Filali,Ghita,Tétouan,Maroc,2023-02-24,STANDARD
+C0266,Skalli,Kenza,Rabat,Maroc,2024-09-21,STANDARD
+C0267,Cherkaoui,Mohamed,Kénitra,Maroc,2025-09-12,NOUVEAU
+C0268,Naciri,Ghita,Rabat,Maroc,2023-08-11,PREMIUM
+C0269,Haddad,Houda,Casablanca,Maroc,2023-07-05,VIP
+C0270,Soussi,Amine,Rabat,Maroc,2025-09-18,NOUVEAU
+C0271,Belhaj,Houda,Kénitra,Maroc,2024-04-01,STANDARD
+C0272,El Idrissi,Zineb,Marrakech,Maroc,2023-04-04,PREMIUM
+C0273,Cherkaoui,Omar,Tanger,Maroc,2023-11-29,STANDARD
+C0274,Skalli,Salma,Casablanca,Maroc,2022-01-23,PREMIUM
+C0275,Hajji,Nadia,Rabat,Maroc,2025-11-26,STANDARD
+C0276,Raji,Zineb,Kénitra,Maroc,2022-12-08,STANDARD
+C0277,Tazi,Zineb,El Jadida,Maroc,2022-01-21,PREMIUM
+C0278,Kettani,Sara,Kénitra,Maroc,2023-06-06,STANDARD
+C0279,Bennis,Walid,Casablanca,Maroc,2023-05-15,STANDARD
+C0280,Slaoui,Meryem,El Jadida,Maroc,2023-05-16,VIP
+C0281,Filali,Meryem,Marrakech,Maroc,2025-10-31,NOUVEAU
+C0282,Bouchta,Loubna,Marrakech,Maroc,2024-02-21,STANDARD
+C0283,Slaoui,Walid,Fès,Maroc,2022-04-30,STANDARD
+C0284,Zniber,Ahmed,Oujda,Maroc,2025-03-18,STANDARD
+C0285,Bouchta,Ahmed,Fès,Maroc,2025-07-06,STANDARD
+C0286,Bakkali,Samira,Béni Mellal,Maroc,2023-05-24,PREMIUM
+C0287,Oukili,Asmae,Casablanca,Maroc,2022-07-01,STANDARD
+C0288,El Fassi,Samira,Marrakech,Maroc,2025-05-10,PREMIUM
+C0289,Benani,Youssef,Oujda,Maroc,2022-12-27,PREMIUM
+C0290,Amrani,Asmae,Marrakech,Maroc,2025-06-19,STANDARD
+C0291,El Fassi,Soukaina,Marrakech,Maroc,2022-10-21,STANDARD
+C0292,Ouazzani,Said,Kénitra,Maroc,2023-06-30,STANDARD
+C0293,Ouazzani,Houda,Rabat,Maroc,2025-10-07,NOUVEAU
+C0294,Saidi,Amine,Fès,Maroc,2022-08-20,STANDARD
+C0295,Rifi,Houda,Rabat,Maroc,2025-05-05,STANDARD
+C0296,Saidi,Salma,Agadir,Maroc,2023-08-17,STANDARD
+C0297,Belhaj,Rania,Marrakech,Maroc,2024-06-18,STANDARD
+C0298,Bouchta,Kenza,Rabat,Maroc,2025-03-24,STANDARD
+C0299,Chraibi,Amine,Meknès,Maroc,2022-09-18,PREMIUM
+C0300,Ziani,Loubna,Tétouan,Maroc,2025-04-23,STANDARD
+C0301,El Fassi,Reda,Casablanca,Maroc,2025-07-31,NOUVEAU
+C0302,Ouazzani,Samira,Agadir,Maroc,2024-09-28,STANDARD
+C0303,Soussi,Rachid,Rabat,Maroc,2024-02-05,STANDARD
+C0304,Kettani,Soukaina,Béni Mellal,Maroc,2022-12-17,STANDARD
+C0305,Guessous,Soukaina,Casablanca,Maroc,2024-10-22,STANDARD
+C0306,Saidi,Sara,Marrakech,Maroc,2023-08-31,STANDARD
+C0307,Haddad,Ahmed,Béni Mellal,Maroc,2023-06-14,STANDARD
+C0308,Chraibi,Hamza,Béni Mellal,Maroc,2023-08-23,STANDARD
+C0309,Guessous,Ahmed,Tanger,Maroc,2025-12-10,NOUVEAU
+C0310,Bennis,Khadija,Rabat,Maroc,2022-02-27,STANDARD
+C0311,Kettani,Karim,Casablanca,Maroc,2025-01-17,STANDARD
+C0312,Zniber,Ayoub,Marrakech,Maroc,2022-05-12,PREMIUM
+C0313,Hajji,Ahmed,Meknès,Maroc,2025-10-29,STANDARD
+C0314,Ziani,Asmae,Casablanca,Maroc,2025-07-04,NOUVEAU
+C0315,Guessous,Karim,Meknès,Maroc,2025-09-25,NOUVEAU
+C0316,Hajji,Tarik,Marrakech,Maroc,2023-09-25,STANDARD
+C0317,Oukili,Aicha,Rabat,Maroc,2023-12-15,PREMIUM
+C0318,Chraibi,Rachid,Marrakech,Maroc,2022-04-12,PREMIUM
+C0319,Bennis,Samira,Kénitra,Maroc,2025-07-09,PREMIUM
+C0320,Soussi,Loubna,Tanger,Maroc,2022-05-02,STANDARD
+C0321,Chraibi,Zakaria,Fès,Maroc,2023-09-05,STANDARD
+C0322,Saidi,Reda,Tanger,Maroc,2025-08-09,STANDARD
+C0323,Guessous,Houda,Casablanca,Maroc,2023-10-16,VIP
+C0324,Alaoui,Loubna,Béni Mellal,Maroc,2023-11-14,PREMIUM
+C0325,Bennis,Loubna,Fès,Maroc,2024-02-15,STANDARD
+C0326,Haddad,Aicha,Rabat,Maroc,2022-10-10,PREMIUM
+C0327,Naciri,Othmane,Fès,Maroc,2024-06-09,STANDARD
+C0328,Saidi,Meryem,Marrakech,Maroc,2023-06-20,STANDARD
+C0329,Saidi,Mehdi,Marrakech,Maroc,2024-01-31,STANDARD
+C0330,Bouchta,Meryem,Marrakech,Maroc,2025-12-06,STANDARD
+C0331,Lahlou,Kenza,Rabat,Maroc,2025-08-17,STANDARD
+C0332,Skalli,Hamza,El Jadida,Maroc,2025-07-21,NOUVEAU
+C0333,Benani,Reda,Fès,Maroc,2024-10-04,STANDARD
+C0334,El Amrani,Imane,Fès,Maroc,2025-11-20,NOUVEAU
+C0335,Guessous,Sara,Rabat,Maroc,2022-05-29,STANDARD
+C0336,Chraibi,Othmane,Casablanca,Maroc,2024-11-30,STANDARD
+C0337,Hajji,Reda,Tanger,Maroc,2025-10-18,NOUVEAU
+C0338,Tazi,Reda,Tanger,Maroc,2023-07-08,STANDARD
+C0339,Ouazzani,Salma,Fès,Maroc,2025-07-29,NOUVEAU
+C0340,Lamrani,Houda,Casablanca,Maroc,2024-02-22,STANDARD
+C0341,Amrani,Soukaina,Marrakech,Maroc,2025-11-13,STANDARD
+C0342,Chraibi,Tarik,Béni Mellal,Maroc,2022-12-16,VIP
+C0343,Ouazzani,Loubna,Agadir,Maroc,2025-01-27,STANDARD
+C0344,Benjelloun,Youssef,Agadir,Maroc,2025-10-13,STANDARD
+C0345,Rifi,Asmae,Fès,Maroc,2024-12-30,STANDARD
+C0346,Daoudi,Ghita,Tanger,Maroc,2024-10-07,STANDARD
+C0347,Belhaj,Latifa,Tanger,Maroc,2025-09-27,STANDARD
+C0348,Oukili,Fatima,Casablanca,Maroc,2023-11-26,STANDARD
+C0349,Cherkaoui,Salma,Rabat,Maroc,2023-08-21,PREMIUM
+C0350,Oukili,Meryem,Meknès,Maroc,2022-05-01,STANDARD
+C0351,Chraibi,Hicham,Oujda,Maroc,2025-09-05,NOUVEAU
+C0352,Oukili,Hamza,Tétouan,Maroc,2024-07-16,STANDARD
+C0353,Ziani,Hicham,Kénitra,Maroc,2025-07-21,STANDARD
+C0354,Guessous,Hamza,Kénitra,Maroc,2022-06-26,STANDARD
+C0355,Berrada,Asmae,Fès,Maroc,2023-02-23,PREMIUM
+C0356,Naciri,Ahmed,Oujda,Maroc,2024-12-23,STANDARD
+C0357,Sebti,Khadija,Casablanca,Maroc,2023-12-24,STANDARD
+C0358,Guessous,Latifa,Meknès,Maroc,2025-08-24,NOUVEAU
+C0359,El Amrani,Ghita,Béni Mellal,Maroc,2022-10-15,STANDARD
+C0360,Ouazzani,Karim,Casablanca,Maroc,2023-03-10,STANDARD
+C0361,Guessous,Fatima,Fès,Maroc,2023-03-03,STANDARD
+C0362,Belhaj,Hicham,Oujda,Maroc,2024-04-08,STANDARD
+C0363,Tahiri,Walid,Fès,Maroc,2022-06-04,STANDARD
+C0364,Mansouri,Rachid,Meknès,Maroc,2022-07-06,STANDARD
+C0365,Fassi,Salma,Fès,Maroc,2025-11-02,NOUVEAU
+C0366,Bouzid,Reda,Tétouan,Maroc,2024-07-05,STANDARD
+C0367,Kettani,Mohamed,Tanger,Maroc,2023-04-02,VIP
+C0368,Ouazzani,Meryem,Rabat,Maroc,2022-12-21,STANDARD
+C0369,Lahlou,Ayoub,Rabat,Maroc,2023-09-07,VIP
+C0370,El Idrissi,Samira,El Jadida,Maroc,2025-08-22,NOUVEAU
+C0371,Kettani,Anas,Marrakech,Maroc,2025-11-25,PREMIUM
+C0372,Kettani,Hajar,Oujda,Maroc,2023-08-22,STANDARD
+C0373,Filali,Kenza,Agadir,Maroc,2024-03-19,STANDARD
+C0374,Fassi,Hamza,Casablanca,Maroc,2024-01-15,PREMIUM
+C0375,Cherkaoui,Sara,Agadir,Maroc,2022-05-23,STANDARD
+C0376,Bouzid,Imane,Béni Mellal,Maroc,2025-12-07,NOUVEAU
+C0377,Slaoui,Khadija,El Jadida,Maroc,2023-04-27,STANDARD
+C0378,Tahiri,Khalid,Meknès,Maroc,2022-06-02,STANDARD
+C0379,Slaoui,Said,Tanger,Maroc,2024-03-25,STANDARD
+C0380,Benani,Nadia,Béni Mellal,Maroc,2023-10-25,STANDARD
+C0381,Mansouri,Loubna,Kénitra,Maroc,2022-04-15,STANDARD
+C0382,Rifi,Ahmed,Marrakech,Maroc,2022-05-20,STANDARD
+C0383,Bakkali,Salma,Meknès,Maroc,2024-07-09,PREMIUM
+C0384,Ouazzani,Ayoub,El Jadida,Maroc,2024-12-04,STANDARD
+C0385,Benjelloun,Omar,Marrakech,Maroc,2022-11-02,STANDARD
+C0386,Bennis,Asmae,Casablanca,Maroc,2024-11-29,PREMIUM
+C0387,Daoudi,Zakaria,Oujda,Maroc,2023-07-02,STANDARD
+C0388,Bouchta,Khadija,Casablanca,Maroc,2022-01-07,PREMIUM
+C0389,Fassi,Asmae,Marrakech,Maroc,2022-10-20,VIP
+C0390,Mernissi,Walid,Rabat,Maroc,2023-05-04,PREMIUM
+C0391,Sebti,Othmane,Tanger,Maroc,2025-09-16,STANDARD
+C0392,Naciri,Samira,Rabat,Maroc,2024-01-09,PREMIUM
+C0393,Benjelloun,Rania,Casablanca,Maroc,2025-11-16,NOUVEAU
+C0394,El Idrissi,Meryem,Tanger,Maroc,2025-07-18,STANDARD
+C0395,Alaoui,Ayoub,Marrakech,Maroc,2025-09-02,STANDARD
+C0396,Daoudi,Meryem,Fès,Maroc,2022-01-15,STANDARD
+C0397,Berrada,Meryem,Casablanca,Maroc,2023-11-03,PREMIUM
+C0398,Saidi,Yasmine,Casablanca,Maroc,2025-09-16,STANDARD
+C0399,Zniber,Khadija,Oujda,Maroc,2025-04-05,VIP
+C0400,Bakkali,Khalid,Rabat,Maroc,2024-08-26,STANDARD
+C0401,Tahiri,Ahmed,Casablanca,Maroc,2023-01-29,STANDARD
+C0402,Slaoui,Omar,Fès,Maroc,2025-10-23,NOUVEAU
+C0403,Ziani,Rachid,Marrakech,Maroc,2023-07-15,VIP
+C0404,Ziani,Reda,Casablanca,Maroc,2025-07-24,PREMIUM
+C0405,Kettani,Ahmed,Fès,Maroc,2025-11-21,PREMIUM
+C0406,El Idrissi,Sara,Casablanca,Maroc,2023-07-19,PREMIUM
+C0407,Tazi,Khadija,Casablanca,Maroc,2023-10-20,STANDARD
+C0408,Tahiri,Khadija,Oujda,Maroc,2024-03-27,STANDARD
+C0409,Ziani,Said,Agadir,Maroc,2022-02-13,STANDARD
+C0410,El Fassi,Mehdi,Tanger,Maroc,2024-11-07,PREMIUM
+C0411,El Amrani,Samira,Casablanca,Maroc,2024-11-29,STANDARD
+C0412,Benani,Rania,Tanger,Maroc,2024-07-04,STANDARD
+C0413,El Idrissi,Reda,Casablanca,Maroc,2024-07-07,STANDARD
+C0414,Berrada,Imane,Marrakech,Maroc,2022-09-02,STANDARD
+C0415,Filali,Hajar,Tanger,Maroc,2025-10-23,NOUVEAU
+C0416,Zniber,Loubna,Tanger,Maroc,2024-10-19,STANDARD
+C0417,Haddad,Zineb,Tétouan,Maroc,2025-12-11,STANDARD
+C0418,Naciri,Imane,Béni Mellal,Maroc,2025-12-16,PREMIUM
+C0419,Bennis,Imane,Tanger,Maroc,2023-01-05,STANDARD
+C0420,Bakkali,Houda,Rabat,Maroc,2023-07-01,PREMIUM
+C0421,Kettani,Khadija,Rabat,Maroc,2024-10-05,STANDARD
+C0422,Mansouri,Tarik,Agadir,Maroc,2025-10-08,NOUVEAU
+C0423,Alaoui,Hicham,Casablanca,Maroc,2023-09-18,STANDARD
+C0424,Lahlou,Mehdi,Rabat,Maroc,2024-11-02,VIP
+C0425,Tahiri,Anas,Casablanca,Maroc,2025-01-01,STANDARD
+C0426,Alaoui,Walid,Agadir,Maroc,2025-09-28,PREMIUM
+C0427,Lahlou,Samira,Casablanca,Maroc,2024-02-02,STANDARD
+C0428,Tahiri,Loubna,Meknès,Maroc,2022-02-13,STANDARD
+C0429,Mansouri,Zineb,Marrakech,Maroc,2024-05-09,PREMIUM
+C0430,Oukili,Khalid,Marrakech,Maroc,2025-11-04,STANDARD
+C0431,Lahlou,Fatima,Fès,Maroc,2024-06-19,STANDARD
+C0432,El Idrissi,Omar,Oujda,Maroc,2022-10-13,STANDARD
+C0433,Filali,Imane,Fès,Maroc,2023-01-16,STANDARD
+C0434,Rifi,Meryem,Tétouan,Maroc,2025-09-06,STANDARD
+C0435,Tahiri,Asmae,Agadir,Maroc,2025-11-29,NOUVEAU
+C0436,Ouazzani,Nadia,Casablanca,Maroc,2025-01-23,PREMIUM
+C0437,Soussi,Youssef,Meknès,Maroc,2025-05-07,STANDARD
+C0438,Guessous,Hajar,Rabat,Maroc,2025-10-28,NOUVEAU
+C0439,Benjelloun,Imane,Meknès,Maroc,2022-10-06,STANDARD
+C0440,Alaoui,Asmae,Casablanca,Maroc,2022-04-03,STANDARD
+C0441,Sebti,Yasmine,El Jadida,Maroc,2025-08-13,VIP
+C0442,Benjelloun,Yasmine,Tanger,Maroc,2024-04-22,PREMIUM
+C0443,Bennis,Aicha,Oujda,Maroc,2023-09-14,STANDARD
+C0444,Lamrani,Said,Marrakech,Maroc,2022-12-09,STANDARD
+C0445,Haddad,Hajar,Marrakech,Maroc,2023-05-17,STANDARD
+C0446,Lamrani,Ayoub,Tétouan,Maroc,2022-08-15,PREMIUM
+C0447,Tahiri,Tarik,Tétouan,Maroc,2022-04-08,STANDARD
+C0448,Raji,Bilal,Agadir,Maroc,2025-09-30,PREMIUM
+C0449,Tazi,Latifa,Agadir,Maroc,2024-03-24,STANDARD
+C0450,Lahlou,Khalid,Agadir,Maroc,2025-09-17,STANDARD
+C0451,Oukili,Loubna,Rabat,Maroc,2023-09-02,STANDARD
+C0452,Mernissi,Rachid,Oujda,Maroc,2025-09-15,PREMIUM
+C0453,Fassi,Rachid,El Jadida,Maroc,2025-09-26,NOUVEAU
+C0454,Mansouri,Bilal,Tétouan,Maroc,2023-11-02,STANDARD
+C0455,Kettani,Hicham,Oujda,Maroc,2023-03-02,PREMIUM
+C0456,El Idrissi,Said,Tanger,Maroc,2025-08-19,NOUVEAU
+C0457,Filali,Khadija,Meknès,Maroc,2025-07-26,NOUVEAU
+C0458,Bouzid,Nadia,Fès,Maroc,2025-09-05,NOUVEAU
+C0459,Zniber,Omar,Rabat,Maroc,2023-10-28,VIP
+C0460,Rifi,Loubna,Casablanca,Maroc,2024-01-21,STANDARD
+C0461,Sebti,Houda,Tanger,Maroc,2024-11-03,STANDARD
+C0462,Chraibi,Ahmed,Casablanca,Maroc,2022-01-27,STANDARD
+C0463,Fassi,Hicham,Meknès,Maroc,2022-03-06,PREMIUM
+C0464,Oukili,Soukaina,Rabat,Maroc,2022-06-16,STANDARD
+C0465,Benjelloun,Nadia,Kénitra,Maroc,2024-12-28,PREMIUM
+C0466,Bennis,Khalid,Kénitra,Maroc,2025-11-12,STANDARD
+C0467,El Amrani,Zakaria,Fès,Maroc,2022-05-19,STANDARD
+C0468,Hajji,Anas,Rabat,Maroc,2023-10-02,VIP
+C0469,Benani,Sara,Casablanca,Maroc,2025-08-11,NOUVEAU
+C0470,Filali,Omar,Casablanca,Maroc,2025-07-30,NOUVEAU
+C0471,Naciri,Mohamed,Oujda,Maroc,2025-12-10,NOUVEAU
+C0472,Benani,Khadija,Oujda,Maroc,2024-10-07,PREMIUM
+C0473,Hajji,Mehdi,Marrakech,Maroc,2024-04-18,STANDARD
+C0474,Guessous,Bilal,Agadir,Maroc,2022-07-03,STANDARD
+C0475,Lahlou,Anas,Meknès,Maroc,2023-07-10,PREMIUM
+C0476,Benjelloun,Ayoub,Béni Mellal,Maroc,2023-11-23,PREMIUM
+C0477,Zniber,Kenza,Casablanca,Maroc,2025-08-13,STANDARD
+C0478,Saidi,Hicham,Marrakech,Maroc,2025-03-31,STANDARD
+C0479,Guessous,Amine,Rabat,Maroc,2023-08-26,PREMIUM
+C0480,Sebti,Tarik,Rabat,Maroc,2025-09-10,NOUVEAU
+C0481,Naciri,Reda,Casablanca,Maroc,2024-08-25,PREMIUM
+C0482,Mernissi,Mohamed,Fès,Maroc,2025-09-24,NOUVEAU
+C0483,Guessous,Samira,Casablanca,Maroc,2025-10-10,NOUVEAU
+C0484,Naciri,Asmae,Kénitra,Maroc,2023-02-01,STANDARD
+C0485,Amrani,Salma,Casablanca,Maroc,2022-08-30,VIP
+C0486,Naciri,Yasmine,Meknès,Maroc,2023-06-24,STANDARD
+C0487,Skalli,Meryem,Marrakech,Maroc,2023-01-11,STANDARD
+C0488,Chraibi,Karim,Béni Mellal,Maroc,2023-01-14,PREMIUM
+C0489,Belhaj,Karim,Marrakech,Maroc,2025-02-01,STANDARD
+C0490,Soussi,Hamza,Fès,Maroc,2023-11-08,STANDARD
+C0491,Mansouri,Kenza,Béni Mellal,Maroc,2025-04-26,VIP
+C0492,Bouchta,Reda,Kénitra,Maroc,2025-07-17,NOUVEAU
+C0493,Bouchta,Anas,Casablanca,Maroc,2022-01-07,STANDARD
+C0494,Tahiri,Bilal,Oujda,Maroc,2025-01-22,STANDARD
+C0495,Bennis,Rachid,Oujda,Maroc,2023-08-23,VIP
+C0496,Bouchta,Tarik,Marrakech,Maroc,2025-07-06,NOUVEAU
+C0497,Bennis,Omar,Marrakech,Maroc,2023-05-22,PREMIUM
+C0498,Amrani,Othmane,Casablanca,Maroc,2025-09-18,NOUVEAU
+C0499,Filali,Zineb,Casablanca,Maroc,2023-08-09,STANDARD
+C0500,Tahiri,Latifa,Rabat,Maroc,2024-07-18,STANDARD
+C0501,Bakkali,Imane,Agadir,Maroc,2024-02-14,STANDARD
+C0502,Berrada,Omar,Tanger,Maroc,2025-07-06,NOUVEAU
+C0503,Naciri,Houda,El Jadida,Maroc,2023-04-07,STANDARD
+C0504,Lahlou,Mohamed,Fès,Maroc,2023-12-07,PREMIUM
+C0505,Alaoui,Anas,Tétouan,Maroc,2022-07-17,STANDARD
+C0506,Fassi,Amine,Kénitra,Maroc,2023-09-12,PREMIUM
+C0507,Kettani,Samira,Casablanca,Maroc,2025-02-28,VIP
+C0508,Zniber,Samira,Rabat,Maroc,2025-08-30,STANDARD
+C0509,Guessous,Hicham,Agadir,Maroc,2022-03-04,STANDARD
+C0510,Haddad,Said,Casablanca,Maroc,2023-07-03,PREMIUM
+C0511,Haddad,Ghita,Rabat,Maroc,2025-05-17,STANDARD
+C0512,Filali,Ahmed,Casablanca,Maroc,2024-03-15,PREMIUM
+C0513,Ouazzani,Khalid,Oujda,Maroc,2025-05-19,PREMIUM
+C0514,Ziani,Aicha,Fès,Maroc,2025-09-24,PREMIUM
+C0515,Cherkaoui,Latifa,Tanger,Maroc,2025-07-05,STANDARD
+C0516,Fassi,Zakaria,Fès,Maroc,2022-08-16,PREMIUM
+C0517,Fassi,Zineb,Kénitra,Maroc,2025-12-09,VIP
+C0518,Raji,Ahmed,Meknès,Maroc,2022-04-30,STANDARD
+C0519,Kettani,Ayoub,Rabat,Maroc,2024-01-26,STANDARD
+C0520,Soussi,Said,Fès,Maroc,2025-07-11,NOUVEAU
+C0521,Ouazzani,Latifa,Marrakech,Maroc,2023-07-18,PREMIUM
+C0522,Saidi,Walid,Tanger,Maroc,2024-11-16,STANDARD
+C0523,Bennis,Othmane,Casablanca,Maroc,2024-08-22,STANDARD
+C0524,Bakkali,Ghita,Agadir,Maroc,2024-06-02,PREMIUM
+C0525,Zniber,Imane,Rabat,Maroc,2023-08-12,VIP
+C0526,Saidi,Karim,Marrakech,Maroc,2022-04-18,STANDARD
+C0527,Ziani,Karim,Marrakech,Maroc,2024-08-01,STANDARD
+C0528,Amrani,Khadija,Casablanca,Maroc,2024-04-15,STANDARD
+C0529,Berrada,Houda,Agadir,Maroc,2023-04-02,STANDARD
+C0530,Raji,Samira,Rabat,Maroc,2025-08-31,STANDARD
+C0531,Tahiri,Hicham,Oujda,Maroc,2024-05-19,STANDARD
+C0532,Cherkaoui,Khadija,Agadir,Maroc,2024-03-11,STANDARD
+C0533,Bouchta,Bilal,Meknès,Maroc,2024-05-01,VIP
+C0534,Zniber,Hamza,Marrakech,Maroc,2022-07-31,STANDARD
+C0535,Chraibi,Soukaina,Rabat,Maroc,2025-08-13,NOUVEAU
+C0536,Bouzid,Hicham,Agadir,Maroc,2022-10-15,VIP
+C0537,Tazi,Ayoub,Casablanca,Maroc,2022-04-18,PREMIUM
+C0538,Rifi,Hamza,Meknès,Maroc,2025-07-03,NOUVEAU
+C0539,Oukili,Zineb,Casablanca,Maroc,2025-08-06,NOUVEAU
+C0540,Benjelloun,Meryem,Rabat,Maroc,2022-07-04,STANDARD
+C0541,Ouazzani,Reda,Agadir,Maroc,2023-03-24,PREMIUM
+C0542,Bouchta,Asmae,Agadir,Maroc,2025-03-23,PREMIUM
+C0543,Filali,Samira,Marrakech,Maroc,2025-12-12,NOUVEAU
+C0544,Cherkaoui,Ahmed,Tanger,Maroc,2025-11-18,NOUVEAU
+C0545,Filali,Yasmine,Oujda,Maroc,2022-07-24,STANDARD
+C0546,El Fassi,Khadija,Marrakech,Maroc,2025-03-18,STANDARD
+C0547,Bouchta,Walid,El Jadida,Maroc,2023-10-07,PREMIUM
+C0548,Saidi,Hamza,Béni Mellal,Maroc,2024-01-10,STANDARD
+C0549,Slaoui,Imane,Meknès,Maroc,2024-04-08,STANDARD
+C0550,Slaoui,Zineb,Marrakech,Maroc,2022-04-10,STANDARD
+C0551,Zniber,Zineb,Fès,Maroc,2025-11-22,NOUVEAU
+C0552,Lamrani,Loubna,Meknès,Maroc,2022-10-30,STANDARD
+C0553,El Idrissi,Yasmine,Marrakech,Maroc,2022-10-09,STANDARD
+C0554,Tazi,Mehdi,Agadir,Maroc,2022-02-22,STANDARD
+C0555,Guessous,Othmane,Marrakech,Maroc,2022-02-25,STANDARD
+C0556,Hajji,Karim,Casablanca,Maroc,2022-11-15,PREMIUM
+C0557,El Idrissi,Tarik,Rabat,Maroc,2022-01-24,PREMIUM
+C0558,Kettani,Tarik,Marrakech,Maroc,2025-11-13,NOUVEAU
+C0559,El Idrissi,Soukaina,Marrakech,Maroc,2025-04-11,STANDARD
+C0560,El Fassi,Anas,Meknès,Maroc,2023-07-22,STANDARD
+C0561,Ouazzani,Anas,Casablanca,Maroc,2023-10-21,STANDARD
+C0562,El Idrissi,Walid,Oujda,Maroc,2025-07-11,STANDARD
+C0563,Amrani,Latifa,Agadir,Maroc,2022-01-18,STANDARD
+C0564,Ziani,Othmane,Tanger,Maroc,2024-12-28,STANDARD
+C0565,Chraibi,Mohamed,Casablanca,Maroc,2022-09-07,STANDARD
+C0566,Soussi,Kenza,Kénitra,Maroc,2024-08-06,PREMIUM
+C0567,Daoudi,Bilal,Casablanca,Maroc,2024-02-09,PREMIUM
+C0568,Mernissi,Karim,Béni Mellal,Maroc,2025-09-05,NOUVEAU
+C0569,El Fassi,Nadia,Tanger,Maroc,2024-02-05,PREMIUM
+C0570,Mansouri,Youssef,Fès,Maroc,2025-09-10,NOUVEAU
+C0571,El Idrissi,Asmae,Marrakech,Maroc,2025-05-13,STANDARD
+C0572,Benani,Ahmed,Marrakech,Maroc,2024-01-01,STANDARD
+C0573,Belhaj,Yasmine,El Jadida,Maroc,2025-09-17,NOUVEAU
+C0574,Lamrani,Samira,Rabat,Maroc,2024-10-20,STANDARD
+C0575,El Amrani,Anas,Béni Mellal,Maroc,2022-10-17,STANDARD
+C0576,Mernissi,Hicham,Tanger,Maroc,2022-08-23,VIP
+C0577,Ouazzani,Zakaria,Agadir,Maroc,2024-07-23,STANDARD
+C0578,Benani,Imane,Agadir,Maroc,2023-07-10,STANDARD
+C0579,Bouzid,Mehdi,Meknès,Maroc,2023-07-14,PREMIUM
+C0580,Zniber,Othmane,Agadir,Maroc,2025-12-29,NOUVEAU
+C0581,Soussi,Karim,Tétouan,Maroc,2022-03-15,STANDARD
+C0582,Tahiri,Said,Oujda,Maroc,2025-09-05,NOUVEAU
+C0583,El Fassi,Sara,Rabat,Maroc,2024-05-08,STANDARD
+C0584,Hajji,Imane,Casablanca,Maroc,2022-09-25,PREMIUM
+C0585,Naciri,Soukaina,Tanger,Maroc,2023-10-27,STANDARD
+C0586,Bakkali,Asmae,Tanger,Maroc,2022-01-06,STANDARD
+C0587,Guessous,Khalid,Casablanca,Maroc,2022-10-23,STANDARD
+C0588,Chraibi,Ayoub,Meknès,Maroc,2024-10-20,VIP
+C0589,Berrada,Rania,Béni Mellal,Maroc,2023-12-30,STANDARD
+C0590,Ziani,Samira,Rabat,Maroc,2025-09-20,STANDARD
+C0591,Bouchta,Othmane,Marrakech,Maroc,2025-07-26,PREMIUM
+C0592,Saidi,Asmae,Tétouan,Maroc,2023-06-06,PREMIUM
+C0593,Naciri,Youssef,Fès,Maroc,2023-09-12,STANDARD
+C0594,Kettani,Kenza,Casablanca,Maroc,2024-05-13,STANDARD
+C0595,Rifi,Said,Tanger,Maroc,2025-10-08,PREMIUM
+C0596,El Idrissi,Mehdi,Agadir,Maroc,2024-10-02,STANDARD
+C0597,Hajji,Othmane,Casablanca,Maroc,2024-05-19,PREMIUM
+C0598,Soussi,Khalid,Fès,Maroc,2022-11-20,STANDARD
+C0599,El Fassi,Omar,Kénitra,Maroc,2022-06-24,STANDARD
+C0600,Hajji,Loubna,Oujda,Maroc,2025-09-26,NOUVEAU
+C0601,Benjelloun,Khalid,Agadir,Maroc,2023-02-07,STANDARD
+C0602,Ziani,Fatima,Rabat,Maroc,2025-09-19,NOUVEAU
+C0603,Tazi,Zakaria,Béni Mellal,Maroc,2022-12-19,STANDARD
+C0604,Tazi,Walid,Rabat,Maroc,2022-10-16,PREMIUM
+C0605,Kettani,Mehdi,Marrakech,Maroc,2023-07-25,STANDARD
+C0606,Amrani,Ghita,Meknès,Maroc,2023-02-27,PREMIUM
+C0607,Tahiri,Soukaina,Fès,Maroc,2023-09-07,PREMIUM
+C0608,Bouzid,Khalid,Casablanca,Maroc,2024-10-25,STANDARD
+C0609,Kettani,Loubna,Fès,Maroc,2025-04-18,PREMIUM
+C0610,Benani,Ayoub,Oujda,Maroc,2023-06-06,VIP
+C0611,Guessous,Khadija,Marrakech,Maroc,2022-01-26,PREMIUM
+C0612,Bennis,Latifa,Rabat,Maroc,2025-01-22,STANDARD
+C0613,Raji,Zakaria,Fès,Maroc,2025-04-08,PREMIUM
+C0614,Sebti,Nadia,Rabat,Maroc,2023-09-28,STANDARD
+C0615,Alaoui,Khalid,Agadir,Maroc,2024-06-29,STANDARD
+C0616,El Fassi,Tarik,Marrakech,Maroc,2024-11-27,PREMIUM
+C0617,Tahiri,Mehdi,Oujda,Maroc,2025-02-06,STANDARD
+C0618,El Idrissi,Othmane,Casablanca,Maroc,2025-10-06,NOUVEAU
+C0619,Cherkaoui,Meryem,Fès,Maroc,2023-07-23,STANDARD
+C0620,El Amrani,Soukaina,Oujda,Maroc,2023-12-14,STANDARD
+C0621,Lahlou,Karim,Oujda,Maroc,2023-11-23,STANDARD
+C0622,Mansouri,Mehdi,Casablanca,Maroc,2023-03-10,STANDARD
+C0623,Lamrani,Bilal,Rabat,Maroc,2023-06-14,PREMIUM
+C0624,Oukili,Rania,Fès,Maroc,2022-07-23,STANDARD
+C0625,Saidi,Houda,Tanger,Maroc,2023-03-29,STANDARD
+C0626,Hajji,Asmae,Meknès,Maroc,2023-02-21,STANDARD
+C0627,Filali,Bilal,Rabat,Maroc,2023-11-16,PREMIUM
+C0628,Bakkali,Mohamed,Tétouan,Maroc,2022-01-23,STANDARD
+C0629,Zniber,Rachid,Kénitra,Maroc,2022-11-15,PREMIUM
+C0630,Zniber,Ghita,El Jadida,Maroc,2025-09-05,STANDARD
+C0631,Mernissi,Sara,Meknès,Maroc,2025-10-09,NOUVEAU
+C0632,Berrada,Kenza,Meknès,Maroc,2024-08-22,PREMIUM
+C0633,Benjelloun,Walid,Fès,Maroc,2022-02-17,STANDARD
+C0634,Hajji,Samira,Marrakech,Maroc,2022-09-11,PREMIUM
+C0635,Haddad,Sara,Marrakech,Maroc,2025-08-16,STANDARD
+C0636,Guessous,Ayoub,Agadir,Maroc,2023-03-27,STANDARD
+C0637,Slaoui,Hamza,Oujda,Maroc,2025-08-29,NOUVEAU
+C0638,Kettani,Walid,Kénitra,Maroc,2024-05-17,STANDARD
+C0639,Bouchta,Khalid,Meknès,Maroc,2023-08-28,PREMIUM
+C0640,Berrada,Zakaria,Tétouan,Maroc,2023-06-20,PREMIUM
+C0641,Oukili,Karim,El Jadida,Maroc,2025-09-29,NOUVEAU
+C0642,Chraibi,Youssef,Béni Mellal,Maroc,2025-10-08,NOUVEAU
+C0643,Oukili,Amine,Oujda,Maroc,2022-01-04,VIP
+C0644,Filali,Walid,Oujda,Maroc,2022-05-30,PREMIUM
+C0645,Raji,Meryem,Marrakech,Maroc,2023-09-25,STANDARD
+C0646,Bakkali,Hicham,Fès,Maroc,2023-09-26,PREMIUM
+C0647,El Fassi,Ahmed,Kénitra,Maroc,2025-08-13,NOUVEAU
+C0648,Sebti,Fatima,Kénitra,Maroc,2025-07-26,NOUVEAU
+C0649,Belhaj,Walid,Casablanca,Maroc,2022-11-08,STANDARD
+C0650,Daoudi,Rania,Béni Mellal,Maroc,2025-11-15,NOUVEAU
+C0651,Guessous,Ghita,Fès,Maroc,2023-12-20,STANDARD
+C0652,Amrani,Zakaria,Béni Mellal,Maroc,2023-10-17,PREMIUM
+C0653,Sebti,Karim,Casablanca,Maroc,2024-04-24,PREMIUM
+C0654,El Amrani,Loubna,Rabat,Maroc,2022-12-24,STANDARD
+C0655,Mansouri,Nadia,Oujda,Maroc,2022-05-24,PREMIUM
+C0656,Ouazzani,Amine,Meknès,Maroc,2025-04-27,STANDARD
+C0657,El Idrissi,Ghita,Tanger,Maroc,2025-02-19,STANDARD
+C0658,Belhaj,Mohamed,Béni Mellal,Maroc,2023-04-04,PREMIUM
+C0659,Lahlou,Soukaina,Agadir,Maroc,2022-07-06,STANDARD
+C0660,Filali,Salma,Rabat,Maroc,2025-08-27,NOUVEAU
+C0661,Ziani,Salma,Oujda,Maroc,2023-01-13,STANDARD
+C0662,Rifi,Hicham,Tanger,Maroc,2023-06-08,STANDARD
+C0663,Berrada,Nadia,Rabat,Maroc,2022-10-07,PREMIUM
+C0664,Bakkali,Amine,Kénitra,Maroc,2025-02-07,STANDARD
+C0665,Hajji,Ayoub,Fès,Maroc,2024-12-29,PREMIUM
+C0666,Filali,Othmane,Casablanca,Maroc,2023-09-26,PREMIUM
+C0667,Guessous,Yasmine,Tétouan,Maroc,2023-09-28,STANDARD
+C0668,Tahiri,Kenza,Tanger,Maroc,2023-04-13,VIP
+C0669,Haddad,Nadia,Béni Mellal,Maroc,2022-12-16,VIP
+C0670,Benjelloun,Mohamed,Béni Mellal,Maroc,2022-10-20,PREMIUM
+C0671,Bennis,Ahmed,Tanger,Maroc,2025-11-03,STANDARD
+C0672,El Fassi,Hajar,Rabat,Maroc,2024-01-31,STANDARD
+C0673,Bouchta,Salma,Agadir,Maroc,2024-08-26,STANDARD
+C0674,Chraibi,Zineb,Béni Mellal,Maroc,2022-02-19,PREMIUM
+C0675,Lahlou,Ahmed,Oujda,Maroc,2025-09-08,STANDARD
+C0676,El Fassi,Meryem,Marrakech,Maroc,2025-12-31,STANDARD
+C0677,Ziani,Mohamed,Casablanca,Maroc,2025-10-26,NOUVEAU
+C0678,Hajji,Rachid,Tanger,Maroc,2022-03-03,STANDARD
+C0679,Alaoui,Zakaria,Meknès,Maroc,2023-04-19,STANDARD
+C0680,Mernissi,Ayoub,Tanger,Maroc,2022-06-23,STANDARD
+C0681,El Amrani,Mehdi,Casablanca,Maroc,2023-08-11,STANDARD
+C0682,Amrani,Meryem,Béni Mellal,Maroc,2023-08-27,PREMIUM
+C0683,Filali,Asmae,Tanger,Maroc,2022-02-25,STANDARD
+C0684,Rifi,Aicha,Oujda,Maroc,2024-03-16,VIP
+C0685,El Amrani,Reda,Marrakech,Maroc,2024-08-17,STANDARD
+C0686,Amrani,Mohamed,Agadir,Maroc,2025-01-18,STANDARD
+C0687,Amrani,Ayoub,Kénitra,Maroc,2023-07-08,STANDARD
+C0688,Berrada,Walid,Tétouan,Maroc,2025-07-17,STANDARD
+C0689,Ouazzani,Aicha,Rabat,Maroc,2024-05-30,STANDARD
+C0690,Bouzid,Loubna,Casablanca,Maroc,2024-01-24,STANDARD
+C0691,Rifi,Reda,Béni Mellal,Maroc,2023-02-25,STANDARD
+C0692,Benani,Bilal,Rabat,Maroc,2025-10-07,STANDARD
+C0693,Kettani,Rania,Casablanca,Maroc,2025-07-10,STANDARD
+C0694,Ouazzani,Soukaina,Tanger,Maroc,2022-07-18,STANDARD
+C0695,Benani,Fatima,Casablanca,Maroc,2025-08-04,STANDARD
+C0696,Ziani,Zineb,Tanger,Maroc,2025-12-19,NOUVEAU
+C0697,El Idrissi,Ahmed,Rabat,Maroc,2023-06-19,STANDARD
+C0698,Lamrani,Khadija,Agadir,Maroc,2022-10-25,PREMIUM
+C0699,Soussi,Meryem,Tanger,Maroc,2023-06-15,STANDARD
+C0700,Skalli,Ayoub,Tanger,Maroc,2022-04-28,PREMIUM
+C0701,Haddad,Latifa,Kénitra,Maroc,2023-09-08,PREMIUM
+C0702,Amrani,Kenza,Meknès,Maroc,2025-01-19,STANDARD
+C0703,Bouzid,Houda,Marrakech,Maroc,2025-07-08,PREMIUM
+C0704,Kettani,Ghita,Oujda,Maroc,2024-10-09,PREMIUM
+C0705,Bakkali,Nadia,Casablanca,Maroc,2023-09-15,STANDARD
+C0706,Filali,Soukaina,Meknès,Maroc,2022-05-04,STANDARD
+C0707,Lamrani,Karim,Agadir,Maroc,2022-05-28,PREMIUM
+C0708,El Fassi,Zineb,Kénitra,Maroc,2023-12-12,PREMIUM
+C0709,Lamrani,Rania,Tanger,Maroc,2022-08-28,PREMIUM
+C0710,El Fassi,Youssef,Oujda,Maroc,2023-09-18,STANDARD
+C0711,Daoudi,Reda,Meknès,Maroc,2024-07-27,STANDARD
+C0712,Mansouri,Aicha,Casablanca,Maroc,2023-09-26,STANDARD
+C0713,Bakkali,Aicha,El Jadida,Maroc,2025-11-03,VIP
+C0714,Fassi,Khalid,Fès,Maroc,2022-09-22,PREMIUM
+C0715,Bouchta,Houda,Marrakech,Maroc,2024-07-10,STANDARD
+C0716,Skalli,Tarik,Agadir,Maroc,2025-12-07,STANDARD
+C0717,El Fassi,Houda,Kénitra,Maroc,2025-08-13,VIP
+C0718,Berrada,Salma,Tanger,Maroc,2022-11-13,VIP
+C0719,Naciri,Hicham,Marrakech,Maroc,2022-08-03,STANDARD
+C0720,Kettani,Houda,Marrakech,Maroc,2024-01-13,PREMIUM
+C0721,Berrada,Youssef,Rabat,Maroc,2022-06-20,STANDARD
+C0722,Raji,Rania,Meknès,Maroc,2025-02-16,STANDARD
+C0723,Bouzid,Hamza,Rabat,Maroc,2024-08-11,PREMIUM
+C0724,Bennis,Ayoub,Casablanca,Maroc,2024-02-07,VIP
+C0725,Ziani,Kenza,Meknès,Maroc,2024-01-23,PREMIUM
+C0726,Berrada,Karim,Rabat,Maroc,2025-10-18,NOUVEAU
+C0727,Zniber,Hicham,Casablanca,Maroc,2023-08-03,STANDARD
+C0728,Rifi,Khalid,Casablanca,Maroc,2022-11-19,STANDARD
+C0729,Bakkali,Rachid,Kénitra,Maroc,2024-09-01,STANDARD
+C0730,Tahiri,Youssef,Tanger,Maroc,2023-05-29,STANDARD
+C0731,Bouzid,Hajar,Tanger,Maroc,2024-11-21,STANDARD
+C0732,Rifi,Fatima,Fès,Maroc,2022-10-20,STANDARD
+C0733,El Idrissi,Zakaria,Marrakech,Maroc,2022-11-02,STANDARD
+C0734,Cherkaoui,Loubna,Casablanca,Maroc,2023-07-04,PREMIUM
+C0735,Tahiri,Imane,Marrakech,Maroc,2024-06-18,STANDARD
+C0736,Hajji,Sara,Béni Mellal,Maroc,2022-08-17,STANDARD
+C0737,Sebti,Hicham,Fès,Maroc,2025-05-12,VIP
+C0738,Fassi,Nadia,Tanger,Maroc,2024-01-10,STANDARD
+C0739,Naciri,Zineb,Marrakech,Maroc,2024-06-25,STANDARD
+C0740,Kettani,Said,El Jadida,Maroc,2023-02-20,PREMIUM
+C0741,Skalli,Sara,Fès,Maroc,2023-06-02,STANDARD
+C0742,Haddad,Yasmine,Casablanca,Maroc,2024-09-13,STANDARD
+C0743,Oukili,Walid,Fès,Maroc,2022-12-16,STANDARD
+C0744,Alaoui,Meryem,Oujda,Maroc,2023-03-15,PREMIUM
+C0745,Tahiri,Nadia,Béni Mellal,Maroc,2023-05-01,STANDARD
+C0746,Saidi,Fatima,Casablanca,Maroc,2022-02-11,STANDARD
+C0747,Oukili,Mehdi,Rabat,Maroc,2025-10-04,STANDARD
+C0748,Filali,Aicha,Meknès,Maroc,2024-10-24,STANDARD
+C0749,Benani,Rachid,Agadir,Maroc,2025-01-20,STANDARD
+C0750,Haddad,Mohamed,Casablanca,Maroc,2024-01-02,STANDARD
+C0751,Daoudi,Loubna,Casablanca,Maroc,2024-03-05,STANDARD
+C0752,Zniber,Sara,Marrakech,Maroc,2025-12-01,PREMIUM
+C0753,Belhaj,Omar,El Jadida,Maroc,2025-09-08,NOUVEAU
+C0754,Mansouri,Hajar,Casablanca,Maroc,2024-10-15,STANDARD
+C0755,Ziani,Meryem,Rabat,Maroc,2024-08-13,PREMIUM
+C0756,Guessous,Salma,Fès,Maroc,2022-03-16,STANDARD
+C0757,Ouazzani,Sara,Marrakech,Maroc,2022-05-27,STANDARD
+C0758,Tazi,Aicha,Marrakech,Maroc,2022-10-31,VIP
+C0759,Hajji,Rania,Rabat,Maroc,2024-04-14,STANDARD
+C0760,Oukili,Kenza,Casablanca,Maroc,2025-08-03,NOUVEAU
+C0761,Tahiri,Mohamed,Fès,Maroc,2024-06-28,STANDARD
+C0762,Berrada,Said,Marrakech,Maroc,2024-03-20,STANDARD
+C0763,Lamrani,Amine,Marrakech,Maroc,2024-06-27,STANDARD
+C0764,Sebti,Aicha,Casablanca,Maroc,2023-01-18,STANDARD
+C0765,Mernissi,Ahmed,Rabat,Maroc,2023-02-22,STANDARD
+C0766,Tazi,Ahmed,Béni Mellal,Maroc,2025-01-11,STANDARD
+C0767,Oukili,Latifa,Kénitra,Maroc,2022-02-15,VIP
+C0768,Ouazzani,Rania,Agadir,Maroc,2022-04-11,STANDARD
+C0769,Bouzid,Latifa,Meknès,Maroc,2025-11-18,NOUVEAU
+C0770,Raji,Asmae,El Jadida,Maroc,2024-11-08,PREMIUM
+C0771,Skalli,Nadia,Casablanca,Maroc,2024-05-31,STANDARD
+C0772,Skalli,Yasmine,Casablanca,Maroc,2025-09-18,PREMIUM
+C0773,Benani,Houda,Tanger,Maroc,2024-10-23,STANDARD
+C0774,Lahlou,Walid,Rabat,Maroc,2025-09-24,NOUVEAU
+C0775,Hajji,Zineb,Tétouan,Maroc,2025-12-16,NOUVEAU
+C0776,El Idrissi,Hajar,Meknès,Maroc,2022-03-13,STANDARD
+C0777,Bouzid,Zakaria,Kénitra,Maroc,2025-08-01,NOUVEAU
+C0778,Belhaj,Nadia,Fès,Maroc,2023-06-01,PREMIUM
+C0779,El Amrani,Youssef,Casablanca,Maroc,2025-05-14,STANDARD
+C0780,Hajji,Mohamed,Tétouan,Maroc,2025-08-03,PREMIUM
+C0781,Mansouri,Samira,Oujda,Maroc,2022-09-29,STANDARD
+C0782,El Fassi,Fatima,Rabat,Maroc,2022-07-04,PREMIUM
+C0783,Mansouri,Ghita,Oujda,Maroc,2025-06-26,STANDARD
+C0784,Skalli,Imane,Marrakech,Maroc,2024-06-17,STANDARD
+C0785,Bakkali,Ayoub,Rabat,Maroc,2022-04-05,PREMIUM
+C0786,Belhaj,Hamza,Casablanca,Maroc,2025-12-19,NOUVEAU
+C0787,Daoudi,Youssef,Fès,Maroc,2025-04-10,STANDARD
+C0788,Bakkali,Anas,Marrakech,Maroc,2024-12-18,STANDARD
+C0789,Bouzid,Aicha,Fès,Maroc,2022-11-01,STANDARD
+C0790,Amrani,Ahmed,El Jadida,Maroc,2024-04-14,PREMIUM
+C0791,Hajji,Bilal,Kénitra,Maroc,2025-09-16,NOUVEAU
+C0792,Lamrani,Latifa,Béni Mellal,Maroc,2025-09-04,NOUVEAU
+C0793,Berrada,Ayoub,Meknès,Maroc,2023-05-23,STANDARD
+C0794,Benjelloun,Hicham,Fès,Maroc,2025-08-15,NOUVEAU
+C0795,Soussi,Sara,Tanger,Maroc,2025-10-28,NOUVEAU
+C0796,Skalli,Zakaria,Casablanca,Maroc,2025-05-14,PREMIUM
+C0797,Lahlou,Said,Tétouan,Maroc,2024-09-23,STANDARD
+C0798,Lamrani,Nadia,Rabat,Maroc,2024-02-27,PREMIUM
+C0799,Hajji,Latifa,Marrakech,Maroc,2025-03-09,STANDARD
+C0800,Belhaj,Loubna,El Jadida,Maroc,2025-05-31,STANDARD
+C0801,Bakkali,Soukaina,Casablanca,Maroc,2024-06-14,STANDARD
+C0802,Ouazzani,Rachid,Casablanca,Maroc,2025-11-17,STANDARD
+C0803,Daoudi,Anas,Rabat,Maroc,2025-07-30,NOUVEAU
+C0804,Zniber,Yasmine,Agadir,Maroc,2022-09-10,STANDARD
+C0805,Lahlou,Nadia,Agadir,Maroc,2025-10-09,NOUVEAU
+C0806,Skalli,Walid,Marrakech,Maroc,2025-11-01,PREMIUM
+C0807,Zniber,Khalid,Tanger,Maroc,2025-08-13,STANDARD
+C0808,Ouazzani,Hajar,Fès,Maroc,2023-09-13,STANDARD
+C0809,Benjelloun,Sara,Casablanca,Maroc,2025-05-11,PREMIUM
+C0810,Daoudi,Ayoub,Casablanca,Maroc,2024-04-14,STANDARD
+C0811,Lahlou,Rachid,Marrakech,Maroc,2023-08-05,PREMIUM
+C0812,Kettani,Salma,Fès,Maroc,2022-04-21,PREMIUM
+C0813,Lamrani,Khalid,Rabat,Maroc,2025-04-09,STANDARD
+C0814,Soussi,Yasmine,Casablanca,Maroc,2022-04-16,PREMIUM
+C0815,Soussi,Rania,Oujda,Maroc,2023-12-25,PREMIUM
+C0816,Bouzid,Youssef,Fès,Maroc,2022-08-28,STANDARD
+C0817,Soussi,Othmane,Agadir,Maroc,2024-05-18,VIP
+C0818,Lamrani,Fatima,Tanger,Maroc,2024-01-28,STANDARD
+C0819,Sebti,Imane,Rabat,Maroc,2025-09-01,STANDARD
+C0820,Naciri,Khadija,Fès,Maroc,2023-07-25,VIP
+C0821,Fassi,Samira,Rabat,Maroc,2025-12-09,STANDARD
+C0822,Mansouri,Soukaina,Kénitra,Maroc,2022-12-03,STANDARD
+C0823,Bennis,Reda,Tanger,Maroc,2025-12-01,NOUVEAU
+C0824,El Idrissi,Nadia,Tétouan,Maroc,2022-11-14,STANDARD
+C0825,Haddad,Karim,Marrakech,Maroc,2022-09-06,STANDARD
+C0826,Tazi,Ghita,Tanger,Maroc,2023-02-07,STANDARD
+C0827,Kettani,Meryem,Casablanca,Maroc,2022-01-30,STANDARD
+C0828,Ouazzani,Khadija,Agadir,Maroc,2022-01-02,VIP
+C0829,Naciri,Rachid,Agadir,Maroc,2024-03-14,VIP
+C0830,Lamrani,Aicha,Oujda,Maroc,2024-12-25,PREMIUM
+C0831,Naciri,Ayoub,Casablanca,Maroc,2022-08-29,PREMIUM
+C0832,Naciri,Fatima,Oujda,Maroc,2024-08-23,STANDARD
+C0833,Lamrani,Rachid,Kénitra,Maroc,2024-03-11,STANDARD
+C0834,Amrani,Bilal,Marrakech,Maroc,2022-06-24,PREMIUM
+C0835,Saidi,Bilal,Fès,Maroc,2024-12-01,STANDARD
+C0836,Lamrani,Othmane,Marrakech,Maroc,2024-09-16,STANDARD
+C0837,Fassi,Ahmed,Marrakech,Maroc,2025-07-09,STANDARD
+C0838,Alaoui,Imane,Casablanca,Maroc,2023-12-08,STANDARD
+C0839,Tahiri,Ayoub,Rabat,Maroc,2025-12-17,NOUVEAU
+C0840,Skalli,Ahmed,Casablanca,Maroc,2023-06-03,STANDARD
+C0841,Saidi,Samira,Agadir,Maroc,2023-07-27,STANDARD
+C0842,Chraibi,Fatima,Casablanca,Maroc,2022-12-14,PREMIUM
+C0843,Berrada,Anas,Agadir,Maroc,2023-06-20,VIP
+C0844,Rifi,Samira,Tanger,Maroc,2025-11-26,PREMIUM
+C0845,Filali,Zakaria,Béni Mellal,Maroc,2024-01-05,STANDARD
+C0846,Tazi,Hajar,Casablanca,Maroc,2025-08-14,STANDARD
+C0847,Chraibi,Mehdi,Marrakech,Maroc,2025-07-21,STANDARD
+C0848,Soussi,Mehdi,Casablanca,Maroc,2024-06-22,STANDARD
+C0849,Sebti,Samira,Agadir,Maroc,2025-08-12,NOUVEAU
+C0850,Benani,Othmane,Fès,Maroc,2024-03-17,VIP
+C0851,Raji,Tarik,Fès,Maroc,2025-07-04,VIP
+C0852,Bouchta,Aicha,El Jadida,Maroc,2023-10-17,STANDARD
+C0853,Slaoui,Ahmed,Oujda,Maroc,2022-06-14,STANDARD
+C0854,Slaoui,Mehdi,Oujda,Maroc,2025-08-16,STANDARD
+C0855,Belhaj,Said,Agadir,Maroc,2023-12-27,STANDARD
+C0856,Sebti,Asmae,Tanger,Maroc,2023-01-27,STANDARD
+C0857,Lahlou,Rania,Marrakech,Maroc,2023-06-14,STANDARD
+C0858,Raji,Mohamed,Casablanca,Maroc,2025-10-13,NOUVEAU
+C0859,Rifi,Karim,Casablanca,Maroc,2023-01-05,PREMIUM
+C0860,Tazi,Yasmine,Tanger,Maroc,2024-06-27,STANDARD
+C0861,El Fassi,Aicha,Fès,Maroc,2024-05-03,STANDARD
+C0862,Tazi,Kenza,Tanger,Maroc,2023-09-23,PREMIUM
+C0863,Bakkali,Zakaria,Oujda,Maroc,2022-12-29,STANDARD
+C0864,Filali,Khalid,Agadir,Maroc,2024-02-06,STANDARD
+C0865,Berrada,Bilal,Fès,Maroc,2022-09-06,VIP
+C0866,Guessous,Mohamed,Casablanca,Maroc,2025-10-20,STANDARD
+C0867,Raji,Fatima,Rabat,Maroc,2025-12-27,NOUVEAU
+C0868,Bakkali,Said,Casablanca,Maroc,2022-05-23,VIP
+C0869,Bouchta,Zineb,Rabat,Maroc,2025-12-28,NOUVEAU
+C0870,Soussi,Ayoub,Meknès,Maroc,2024-08-11,STANDARD
+C0871,Slaoui,Loubna,Meknès,Maroc,2023-05-01,STANDARD
+C0872,Berrada,Othmane,Kénitra,Maroc,2024-06-16,PREMIUM
+C0873,Benani,Tarik,El Jadida,Maroc,2022-08-01,STANDARD
+C0874,Alaoui,Samira,Marrakech,Maroc,2022-02-03,VIP
+C0875,Cherkaoui,Kenza,Casablanca,Maroc,2022-12-04,STANDARD
+C0876,Oukili,Imane,Casablanca,Maroc,2024-04-30,STANDARD
+C0877,Daoudi,Fatima,Meknès,Maroc,2025-11-21,NOUVEAU
+C0878,Kettani,Hamza,Meknès,Maroc,2023-07-11,STANDARD
+C0879,Mernissi,Tarik,Casablanca,Maroc,2022-02-11,VIP
+C0880,Amrani,Nadia,Béni Mellal,Maroc,2022-04-08,STANDARD
+C0881,Berrada,Reda,Rabat,Maroc,2025-11-15,STANDARD
+C0882,Rifi,Khadija,Agadir,Maroc,2023-11-30,PREMIUM
+C0883,Naciri,Loubna,Fès,Maroc,2023-01-12,STANDARD
+C0884,Rifi,Soukaina,Casablanca,Maroc,2022-09-14,VIP
+C0885,Saidi,Aicha,Béni Mellal,Maroc,2025-04-19,STANDARD
+C0886,Benani,Walid,Rabat,Maroc,2024-08-17,PREMIUM
+C0887,Cherkaoui,Rachid,El Jadida,Maroc,2023-03-31,PREMIUM
+C0888,Raji,Salma,Rabat,Maroc,2024-08-30,STANDARD
+C0889,Lahlou,Imane,Fès,Maroc,2024-08-24,STANDARD
+C0890,Hajji,Youssef,Casablanca,Maroc,2025-01-24,STANDARD
+C0891,Filali,Rachid,Kénitra,Maroc,2023-10-13,STANDARD
+C0892,El Fassi,Rachid,Rabat,Maroc,2023-10-14,STANDARD
+C0893,Chraibi,Aicha,Tétouan,Maroc,2023-07-17,PREMIUM
+C0894,Benjelloun,Karim,Casablanca,Maroc,2025-06-19,STANDARD
+C0895,Chraibi,Salma,Marrakech,Maroc,2025-01-10,PREMIUM
+C0896,Zniber,Said,Tétouan,Maroc,2025-08-04,PREMIUM
+C0897,Benjelloun,Reda,Casablanca,Maroc,2022-10-13,VIP
+C0898,Benjelloun,Latifa,Agadir,Maroc,2025-11-25,PREMIUM
+C0899,Raji,Othmane,Casablanca,Maroc,2025-12-31,NOUVEAU
+C0900,Haddad,Imane,Fès,Maroc,2024-01-16,PREMIUM
+C0901,Sebti,Omar,Fès,Maroc,2022-04-26,VIP
+C0902,Mansouri,Rania,Fès,Maroc,2023-03-30,STANDARD
+C0903,Bennis,Karim,Tanger,Maroc,2024-04-07,STANDARD
+C0904,Benani,Amine,Fès,Maroc,2025-09-02,NOUVEAU
+C0905,Amrani,Rachid,Tanger,Maroc,2025-07-28,NOUVEAU
+C0906,El Fassi,Hicham,Casablanca,Maroc,2022-10-20,STANDARD
+C0907,Chraibi,Hajar,Tétouan,Maroc,2022-10-28,STANDARD
+C0908,Fassi,Imane,Kénitra,Maroc,2022-04-01,PREMIUM
+C0909,Slaoui,Reda,Rabat,Maroc,2025-07-05,NOUVEAU
+C0910,Fassi,Mohamed,Fès,Maroc,2022-09-04,PREMIUM
+C0911,Bouchta,Youssef,Marrakech,Maroc,2023-06-20,PREMIUM
+C0912,Soussi,Tarik,Oujda,Maroc,2025-11-07,NOUVEAU
+C0913,Bakkali,Fatima,Marrakech,Maroc,2023-05-21,STANDARD
+C0914,Guessous,Reda,Casablanca,Maroc,2022-08-16,PREMIUM
+C0915,Amrani,Hamza,Marrakech,Maroc,2025-08-29,NOUVEAU
+C0916,Benani,Loubna,Kénitra,Maroc,2025-07-13,PREMIUM
+C0917,Bouchta,Hajar,Rabat,Maroc,2025-11-22,NOUVEAU
+C0918,Belhaj,Ahmed,Rabat,Maroc,2025-08-29,NOUVEAU
+C0919,Tazi,Tarik,Fès,Maroc,2025-12-09,NOUVEAU
+C0920,Bakkali,Hamza,Béni Mellal,Maroc,2023-06-22,PREMIUM
+C0921,Sebti,Rania,Rabat,Maroc,2023-01-04,PREMIUM
+C0922,Bennis,Hicham,Kénitra,Maroc,2024-01-04,STANDARD
+C0923,Guessous,Imane,Rabat,Maroc,2024-03-05,STANDARD
+C0924,Bouchta,Imane,Casablanca,Maroc,2025-11-15,STANDARD
+C0925,Lahlou,Tarik,Casablanca,Maroc,2024-12-11,STANDARD
+C0926,Skalli,Said,Casablanca,Maroc,2025-11-20,PREMIUM
+C0927,Daoudi,Walid,Marrakech,Maroc,2023-12-08,STANDARD
+C0928,Ziani,Rania,Tanger,Maroc,2023-07-19,STANDARD
+C0929,El Amrani,Mohamed,Tétouan,Maroc,2025-08-07,NOUVEAU
+C0930,Ouazzani,Ghita,Tétouan,Maroc,2025-04-27,STANDARD
+C0931,Haddad,Khalid,Casablanca,Maroc,2025-12-23,NOUVEAU
+C0932,Raji,Karim,Rabat,Maroc,2024-08-02,STANDARD
+C0933,Fassi,Sara,Casablanca,Maroc,2022-01-22,STANDARD
+C0934,Mansouri,Houda,Oujda,Maroc,2025-08-18,NOUVEAU
+C0935,Tahiri,Houda,Marrakech,Maroc,2022-09-02,PREMIUM
+C0936,Alaoui,Reda,Fès,Maroc,2022-11-29,STANDARD
+C0937,Skalli,Bilal,Oujda,Maroc,2022-04-10,STANDARD
+C0938,Tazi,Hicham,Casablanca,Maroc,2025-03-31,PREMIUM
+C0939,Slaoui,Anas,Marrakech,Maroc,2025-06-11,STANDARD
+C0940,Oukili,Hicham,Marrakech,Maroc,2023-03-10,STANDARD
+C0941,Slaoui,Rachid,Kénitra,Maroc,2023-04-16,STANDARD
+C0942,Cherkaoui,Said,Fès,Maroc,2022-03-16,STANDARD
+C0943,Tahiri,Salma,El Jadida,Maroc,2022-10-26,VIP
+C0944,Rifi,Salma,Casablanca,Maroc,2022-11-03,STANDARD
+C0945,Guessous,Rania,Fès,Maroc,2023-12-02,STANDARD
+C0946,Bouzid,Rania,Casablanca,Maroc,2023-04-18,PREMIUM
+C0947,Bouchta,Hamza,Meknès,Maroc,2025-10-07,STANDARD
+C0948,Mernissi,Aicha,Fès,Maroc,2024-01-03,STANDARD
+C0949,Zniber,Fatima,Marrakech,Maroc,2023-06-12,PREMIUM
+C0950,Ouazzani,Yasmine,Kénitra,Maroc,2025-08-25,NOUVEAU
+C0951,Benjelloun,Houda,Agadir,Maroc,2024-02-22,STANDARD
+C0952,Tazi,Salma,Meknès,Maroc,2022-04-23,PREMIUM
+C0953,Cherkaoui,Othmane,Béni Mellal,Maroc,2024-04-09,STANDARD
+C0954,Lahlou,Khadija,Marrakech,Maroc,2025-11-05,NOUVEAU
+C0955,Mernissi,Salma,Casablanca,Maroc,2024-05-12,STANDARD
+C0956,Mansouri,Khadija,Tétouan,Maroc,2025-07-17,NOUVEAU
+C0957,Amrani,Hicham,Fès,Maroc,2024-07-25,STANDARD
+C0958,Tazi,Karim,Casablanca,Maroc,2025-10-28,STANDARD
+C0959,Daoudi,Othmane,Marrakech,Maroc,2023-01-16,STANDARD
+C0960,Tahiri,Reda,Agadir,Maroc,2024-03-31,STANDARD
+C0961,Bouzid,Ghita,Casablanca,Maroc,2025-08-12,NOUVEAU
+C0962,Mansouri,Reda,Casablanca,Maroc,2025-06-04,PREMIUM
+C0963,Bouchta,Amine,Casablanca,Maroc,2022-05-05,STANDARD
+C0964,Chraibi,Nadia,Béni Mellal,Maroc,2025-12-12,NOUVEAU
+C0965,Bouzid,Said,Fès,Maroc,2024-05-23,STANDARD
+C0966,Amrani,Houda,Tanger,Maroc,2025-07-23,NOUVEAU
+C0967,Mansouri,Ayoub,Rabat,Maroc,2022-11-04,STANDARD
+C0968,Mansouri,Khalid,Casablanca,Maroc,2022-08-15,STANDARD
+C0969,Sebti,Khalid,Tanger,Maroc,2022-05-02,PREMIUM
+C0970,Ziani,Youssef,El Jadida,Maroc,2024-02-25,STANDARD
+C0971,Belhaj,Khadija,Fès,Maroc,2025-06-07,STANDARD
+C0972,Benani,Hicham,Tanger,Maroc,2024-04-27,STANDARD
+C0973,El Fassi,Rania,Fès,Maroc,2024-03-13,STANDARD
+C0974,Rifi,Mohamed,Oujda,Maroc,2025-10-27,STANDARD
+C0975,Berrada,Fatima,Casablanca,Maroc,2024-03-31,VIP
+C0976,Mernissi,Bilal,Tétouan,Maroc,2023-12-08,PREMIUM
+C0977,Naciri,Salma,Tétouan,Maroc,2024-12-12,STANDARD
+C0978,Lamrani,Tarik,Agadir,Maroc,2023-09-10,STANDARD
+C0979,Fassi,Walid,Agadir,Maroc,2024-09-18,STANDARD
+C0980,El Idrissi,Anas,Béni Mellal,Maroc,2024-10-21,STANDARD
+C0981,Ziani,Bilal,Oujda,Maroc,2022-10-02,STANDARD
+C0982,Hajji,Khalid,Marrakech,Maroc,2025-11-24,NOUVEAU
+C0983,Lahlou,Aicha,Agadir,Maroc,2025-10-03,NOUVEAU
+C0984,Ouazzani,Imane,Casablanca,Maroc,2025-05-21,STANDARD
+C0985,Hajji,Khadija,Meknès,Maroc,2024-05-16,STANDARD
+C0986,Slaoui,Yasmine,Marrakech,Maroc,2025-07-10,NOUVEAU
+C0987,Chraibi,Kenza,Rabat,Maroc,2025-08-16,STANDARD
+C0988,Benjelloun,Zakaria,Fès,Maroc,2024-04-23,STANDARD
+C0989,Lahlou,Hamza,Oujda,Maroc,2022-08-11,STANDARD
+C0990,Chraibi,Latifa,Marrakech,Maroc,2022-07-11,PREMIUM
+C0991,Mernissi,Nadia,Rabat,Maroc,2024-12-27,STANDARD
+C0992,Soussi,Latifa,Fès,Maroc,2022-05-21,STANDARD
+C0993,Benjelloun,Hajar,Rabat,Maroc,2023-01-26,STANDARD
+C0994,Kettani,Amine,Marrakech,Maroc,2024-04-29,STANDARD
+C0995,Saidi,Khadija,Casablanca,Maroc,2024-03-27,VIP
+C0996,Tazi,Anas,Tétouan,Maroc,2022-07-18,STANDARD
+C0997,Saidi,Ghita,Casablanca,Maroc,2022-06-27,VIP
+C0998,Tazi,Othmane,Casablanca,Maroc,2023-11-24,STANDARD
+C0999,Bouzid,Meryem,Agadir,Maroc,2023-02-01,STANDARD
+C1000,Amrani,Karim,El Jadida,Maroc,2022-07-23,PREMIUM

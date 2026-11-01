@@ -1,0 +1,7 @@
+transaction_id,client_id,produit_id,vendeur_id,date,quantite,prix_unitaire,statut
+T001,C001,P001,V001,2026-01-10,2,100,validée
+T002,C002,P002,V002,2026-01-15,1,200,validée
+T003,C001,P001,V001,2026-02-05,3,100,validée
+T004,C003,P003,V001,2026-02-12,2,50,annulée
+T005,C002,P002,V002,2026-03-08,4,200,validée
+T006,C001,P003,V003,2026-03-20,1,50,validée

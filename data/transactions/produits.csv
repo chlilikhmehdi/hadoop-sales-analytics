@@ -1,0 +1,101 @@
+produit_id,nom_produit,categorie,sous_categorie,prix_catalogue,stock_initial
+P001,Smartphone Atlas X1,Électronique,Smartphones,4474.90,688
+P002,Smartphone Atlas X2,Électronique,Smartphones,3320.00,744
+P003,Smartphone Nova 5G,Électronique,Smartphones,5679.90,84
+P004,Smartphone Zenith Lite,Électronique,Smartphones,2430.00,96
+P005,Smartphone Orion Pro,Électronique,Smartphones,5285.00,512
+P006,Écouteurs sans fil Pulse,Électronique,Accessoires Mobiles,615.00,545
+P007,Chargeur rapide 65W,Électronique,Accessoires Mobiles,510.00,182
+P008,Batterie externe 20000mAh,Électronique,Accessoires Mobiles,465.00,579
+P009,Câble USB-C tressé,Électronique,Accessoires Mobiles,630.00,214
+P010,Coque de protection Atlas,Électronique,Accessoires Mobiles,475.00,449
+P011,PC portable Helios 15,Informatique,Ordinateurs,5999.90,130
+P012,PC portable Aurora 14,Informatique,Ordinateurs,7215.00,402
+P013,PC portable Titan Gamer,Informatique,Ordinateurs,4919.90,559
+P014,Ultrabook Sahara,Informatique,Ordinateurs,13989.90,344
+P015,Tablette Mirage 10,Informatique,Ordinateurs,8144.90,581
+P016,Souris ergonomique Flex,Informatique,Périphériques,1265.00,589
+P017,Clavier mécanique Kora,Informatique,Périphériques,2014.90,146
+P018,Écran 24 pouces Vision,Informatique,Périphériques,2140.00,55
+P019,Webcam HD Clarté,Informatique,Périphériques,2389.90,711
+P020,Imprimante laser Orbis,Informatique,Périphériques,905.00,77
+P021,Robot pâtissier Marmiton,Électroménager,Cuisine,1115.00,410
+P022,Bouilloire inox Saba,Électroménager,Cuisine,1660.00,162
+P023,Mixeur plongeant Tornado,Électroménager,Cuisine,1814.90,619
+P024,Cuiseur vapeur Ziri,Électroménager,Cuisine,2155.00,633
+P025,Machine à café Barista,Électroménager,Cuisine,964.90,736
+P026,Aspirateur Cyclone,Électroménager,Entretien,3745.00,320
+P027,Fer à repasser Vapo,Électroménager,Entretien,899.90,225
+P028,Machine à laver Lavex 8kg,Électroménager,Entretien,955.00,414
+P029,Réfrigérateur Frigo Neo,Électroménager,Entretien,4780.00,711
+P030,Ventilateur Brise,Électroménager,Entretien,4204.90,333
+P031,Chemise coton Casa,Mode,Homme,1120.00,348
+P032,Jean slim Urbain,Mode,Homme,1685.00,317
+P033,Veste en cuir Atlas,Mode,Homme,575.00,471
+P034,Djellaba homme Fès,Mode,Homme,1579.90,474
+P035,Baskets Run Rabat,Mode,Homme,1745.00,148
+P036,Robe d'été Zahra,Mode,Femme,749.90,175
+P037,Caftan brodé Marrakech,Mode,Femme,369.90,372
+P038,Foulard soie Médina,Mode,Femme,2210.00,463
+P039,Sac à main Tanger,Mode,Femme,965.00,658
+P040,Sandales Agadir,Mode,Femme,1360.00,752
+P041,Canapé 3 places Sultan,Maison et Décoration,Mobilier,3679.90,448
+P042,Table basse Zellige,Maison et Décoration,Mobilier,2979.90,109
+P043,Bibliothèque Chêne,Maison et Décoration,Mobilier,6749.90,74
+P044,Chaise de bureau Ergo,Maison et Décoration,Mobilier,2889.90,346
+P045,Lit double Riad,Maison et Décoration,Mobilier,6680.00,354
+P046,Tapis berbère Azilal,Maison et Décoration,Décoration,1704.90,649
+P047,Lanterne marocaine Fanous,Maison et Décoration,Décoration,1989.90,252
+P048,Miroir sculpté Chefchaouen,Maison et Décoration,Décoration,1260.00,216
+P049,Coussin brodé Safi,Maison et Décoration,Décoration,1385.00,88
+P050,Vase en céramique Safi,Maison et Décoration,Décoration,329.90,661
+P051,Huile d'argan alimentaire 250ml,Alimentation,Épicerie,174.90,79
+P052,Miel d'oranger 500g,Alimentation,Épicerie,120.00,414
+P053,Dattes Medjool 1kg,Alimentation,Épicerie,119.90,295
+P054,Couscous artisanal 1kg,Alimentation,Épicerie,205.00,178
+P055,Amlou traditionnel 250g,Alimentation,Épicerie,65.00,727
+P056,Thé vert à la menthe 500g,Alimentation,Boissons,117.90,604
+P057,Café moulu Arabica 1kg,Alimentation,Boissons,112.90,456
+P058,Jus d'orange pressé 1L,Alimentation,Boissons,142.90,201
+P059,Eau minérale pack x6,Alimentation,Boissons,43.90,66
+P060,Sirop de grenadine 750ml,Alimentation,Boissons,51.90,540
+P061,Crème hydratante Argan,Beauté et Santé,Soins,189.90,191
+P062,Savon noir beldi,Beauté et Santé,Soins,400.00,233
+P063,Masque au rhassoul,Beauté et Santé,Soins,244.90,398
+P064,Huile de beauté Nigelle,Beauté et Santé,Soins,274.90,107
+P065,Shampoing doux Aloé,Beauté et Santé,Soins,285.00,692
+P066,Eau de parfum Oud Royal,Beauté et Santé,Parfums,1469.90,109
+P067,Eau de toilette Fleur d'Oranger,Beauté et Santé,Parfums,1460.00,458
+P068,Parfum Ambre Sahara,Beauté et Santé,Parfums,1084.90,288
+P069,Brume corporelle Jasmin,Beauté et Santé,Parfums,879.90,401
+P070,Coffret parfum Médina,Beauté et Santé,Parfums,1304.90,417
+P071,Tapis de yoga Zen,Sport et Loisirs,Fitness,1499.90,611
+P072,Haltères 10kg paire,Sport et Loisirs,Fitness,2609.90,242
+P073,Vélo d'appartement Fit,Sport et Loisirs,Fitness,554.90,207
+P074,Corde à sauter Pro,Sport et Loisirs,Fitness,1580.00,412
+P075,Montre sport Runner,Sport et Loisirs,Fitness,2614.90,88
+P076,Tente 4 places Atlas,Sport et Loisirs,Plein Air,1435.00,356
+P077,Sac de randonnée 40L,Sport et Loisirs,Plein Air,869.90,191
+P078,Sac de couchage Désert,Sport et Loisirs,Plein Air,1595.00,68
+P079,Ballon de football Match,Sport et Loisirs,Plein Air,1209.90,636
+P080,Raquette de padel Pro,Sport et Loisirs,Plein Air,174.90,439
+P081,Roman Les Nuits de Fès,Livres et Papeterie,Livres,225.00,570
+P082,Atlas du Maroc illustré,Livres et Papeterie,Livres,80.00,800
+P083,Guide de cuisine marocaine,Livres et Papeterie,Livres,174.90,367
+P084,Manuel de mathématiques,Livres et Papeterie,Livres,60.00,216
+P085,Dictionnaire français-arabe,Livres et Papeterie,Livres,344.90,604
+P086,Cahier grand format x5,Livres et Papeterie,Fournitures,130.00,447
+P087,Stylos gel x12,Livres et Papeterie,Fournitures,90.00,670
+P088,Sac à dos scolaire,Livres et Papeterie,Fournitures,274.90,414
+P089,Calculatrice scientifique,Livres et Papeterie,Fournitures,345.00,789
+P090,Trousse complète,Livres et Papeterie,Fournitures,225.00,372
+P091,Jeu de construction Briques,Jouets et Enfants,Jouets,370.00,79
+P092,Poupée Lalla,Jouets et Enfants,Jouets,580.00,433
+P093,Voiture télécommandée Rallye,Jouets et Enfants,Jouets,79.90,271
+P094,Puzzle 1000 pièces,Jouets et Enfants,Jouets,365.00,179
+P095,Jeu de société Médina,Jouets et Enfants,Jouets,104.90,546
+P096,Poussette Confort,Jouets et Enfants,Puériculture,310.00,440
+P097,Siège auto Sécurité,Jouets et Enfants,Puériculture,674.90,713
+P098,Lit bébé pliant,Jouets et Enfants,Puériculture,334.90,560
+P099,Biberons anti-colique x3,Jouets et Enfants,Puériculture,345.00,417
+P100,Couverture douce Bébé,Jouets et Enfants,Puériculture,1659.90,649
